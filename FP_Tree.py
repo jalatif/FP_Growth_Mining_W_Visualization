@@ -5,6 +5,7 @@ import itertools
 import re
 import os
 import time
+import math
 import sys
 
 class TreeNode:
@@ -137,16 +138,13 @@ def giveCombinations(tree):
         for itemcom in comb:
             #itemListCombinations.append([])
             min_support = min([itemfreqlist[item] for item in itemcom])
-            patternCombination = []
-            for item in itemcom:
-                patternCombination.append(item)
-            itemListCombinations.append([min_support, patternCombination])
+            itemListCombinations.append([min_support, itemcom])
     return itemListCombinations
 
 def myprint(string):
     pass#print string
 
-def mine_fp_tree(transactions, conditional_base = [], min_support = 1, make_graph=False):
+def mine_fp_tree(transactions, conditional_base = (), min_support = 1, make_graph=False):
     header_table = make_flist(transactions, min_support)
     flist = sorted(header_table.keys(), key=lambda key: header_table[key].frequency, reverse=True)
 
@@ -208,7 +206,7 @@ def mine_fp_tree(transactions, conditional_base = [], min_support = 1, make_grap
     myprint(conditional_pattern_base)
 
     for item in sorted(conditional_pattern_base.keys(), key=lambda key: flist.index(key), reverse=True):
-        temp_conditional_base = conditional_base + [item]
+        temp_conditional_base = conditional_base + (item, )
         PatternCombinations.append([header_table[item].frequency, temp_conditional_base])
         mine_fp_tree(conditional_pattern_base[item], temp_conditional_base, min_support)
 
@@ -218,11 +216,24 @@ def make_Frequent_Table(itemListCombinations, vocab_map):
         item_freq = itemComb[0]
         if item_freq not in FrequentItems:
             FrequentItems[item_freq] = []
-        itemset_words = []
+        itemset_words = ()
         for item in itemComb[1]:
-            itemset_words.append(vocab_map[item])
+            itemset_words += (vocab_map[item], )
         FrequentItems[item_freq].append(itemset_words)
     return FrequentItems
+
+def make_Pattern_Dictionary(itemListCombinations, vocab_map):
+    PatternDict = {}
+    for itemComb in itemListCombinations:
+        item_freq = itemComb[0]
+        itemset_words = ()
+        for item in itemComb[1]:
+            itemset_words += (vocab_map[item], )
+        if itemset_words not in PatternDict:
+            PatternDict[itemset_words] = []
+        PatternDict[itemset_words] = item_freq
+    return PatternDict
+
 
 def findSuperSet(pattern, patterns, supportCheck=False):
     for pat in patterns:
@@ -260,36 +271,74 @@ def make_level_wise_pattern(FrequentPatterns):
             Patterns[length_pattern].append([itemset_support, pattern])
     return Patterns
 
-# def findFrequencyInFile(pattern, topic_pattern, transaction):
-#     frequency_count = 0
-#     spattern = set(pattern[1])
-#     this_topic_pattern = [ptrn[0] for ptrn in topic_pattern if set(ptrn[1]).issuperset(spattern)]
-#
-#     if len(this_topic_pattern) != 0: return this_topic_pattern[0]
-#
-#     for tline in transaction:
-#         sline = set(tline[1])
-#         if sline.issuperset(spattern):
-#             frequency_count += tline[0] #Increment By the time how many transactions may be present in file
-#     return frequency_count
-#
-# def findPureItems(topic_patterns, topics_transactions):
-#     topics_purity_items = []
-#     pattern_transaction_frequency = {}
-#     for i in range(0, len(topic_patterns)):
-#         for pattern in topic_patterns[i]:
-#             fcounts = []
-#             for j in range(0, len(topics_transactions)):
-#                 frequency_count = findFrequencyInFile(pattern, topic_patterns[j], topics_transactions[j])
-#                 fcounts.append(frequency_count)
-#             pattern_transaction_frequency[pattern] = [fcounts, pattern
+def findFrequencyInFile(pattern, topic_pattern, transaction):
+    frequency_count = 0
 
+    if pattern in topic_pattern: return topic_pattern[pattern]
 
+    for tline in transaction:
+        match = 1
+        for word in pattern:
+            if word not in tline:
+                match = -1
+                break
+        if match == 1:
+            frequency_count += 1
 
-def writePatternInFile(file_name, FrequentItems):
+    return frequency_count
+
+def makeFtpTable(topic_patterns, topics_transactions):
+    pattern_transaction_frequency = {}
+    for i in range(0, len(topic_patterns)):
+        for pattern in topic_patterns[i].keys():
+            if pattern in pattern_transaction_frequency:
+                continue
+            fcounts = []
+            for j in range(0, len(topics_transactions)):
+                frequency_count = findFrequencyInFile(pattern, topic_patterns[j], topics_transactions[j])
+                fcounts.append(frequency_count)
+            pattern_transaction_frequency[pattern] = [topic_patterns[i][pattern], fcounts]
+    return pattern_transaction_frequency
+
+def writePurePatternInFile(file_name, num_file, PurityItems):
     if not os.path.exists(file_name):
         os.makedirs(file_name)
-    f = open(file_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w')
+    f = open(file_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
+    for FI in sorted(PurityItems.keys(), key=lambda key: key, reverse=True):
+        PurityItems[FI].sort(reverse=True)
+        for patterns in PurityItems[FI]:#sorted(PurityItems[FI], key=lambda key: PurityItems[FI][0], reverse=True):
+            line = str(FI) + " ["
+            for pattern in patterns[1]:
+                line = line + str(pattern) + ", "
+            line = line[:-2]
+            line += "]\n"
+            f.write(line)
+    f.close()
+
+def findPureItems(topic_patterns, topics_transactions, Dt):
+    ftp_table = makeFtpTable(topic_patterns, topics_transactions)
+    print ftp_table
+    num_topics = len(topics_transactions)
+    for num_file in range(0, num_topics):
+        PurityItems = {}
+
+        for pattern in topic_patterns[num_file].keys():
+            ftp = ftp_table[pattern][1]
+            max_val = max([((ftp[num_file] + ftp[t]) / (1.0 * Dt[num_file][t])) for t in range(0, num_topics) if t != num_file])
+            purity_value = math.log(ftp[num_file] / (1.0 * Dt[num_file][num_file])) - math.log(max_val)
+            if purity_value not in PurityItems:
+                PurityItems[purity_value] = []
+            PurityItems[purity_value].append([topic_patterns[num_file][pattern], pattern])
+            if 'scheme' in pattern and num_file == 0:
+                print "For scheme ", ftp, max_val, purity_value
+            #print PurityItems
+
+        writePurePatternInFile("purity", num_file, PurityItems)
+
+def writePatternInFile(file_name, num_file, FrequentItems):
+    if not os.path.exists(file_name):
+        os.makedirs(file_name)
+    f = open(file_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
     for FI in sorted(FrequentItems.keys(), key=lambda key: key, reverse=True):
         for patterns in FrequentItems[FI]:
             line = str(FI) + " ["
@@ -300,7 +349,7 @@ def writePatternInFile(file_name, FrequentItems):
             f.write(line)
     f.close()
 
-def mine_frequent_patterns(transactions, vocab_map, num_file, conditional_base = [], min_support = 1, make_graph=False):
+def mine_frequent_patterns(transactions, conditional_base = (), min_support = 1, make_graph=False):
     global PatternCombinations
     PatternCombinations = []
     mine_fp_tree(transactions, conditional_base, min_support, make_graph)
@@ -309,29 +358,33 @@ def mine_frequent_patterns(transactions, vocab_map, num_file, conditional_base =
 
     return PatternCombinations
 
-def solveProblem(topics_transactions, num_files, vocab_map, min_support, make_graph=False):
+def solveProblem(topics_transactions, word_transactions, num_files, vocab_map, FpDt, rel_min_support, make_graph=False):
 
     topics_patterns = []
     for num_file in range(0, num_files):
-        pattern_combinations = mine_frequent_patterns(topics_transactions[num_file], vocab_map, num_file, [], min_support, make_graph)
+        min_support = rel_min_support * len(topics_transactions[num_file])
+        pattern_combinations = mine_frequent_patterns(topics_transactions[num_file], (), min_support, make_graph)
         FrequentItems = make_Frequent_Table(pattern_combinations, vocab_map)
+        PatternDict = make_Pattern_Dictionary(pattern_combinations, vocab_map)
         Patterns = make_level_wise_pattern(FrequentItems)
         print FrequentItems
+        print PatternDict
         print Patterns
-        writePatternInFile("pattern", FrequentItems)
+        writePatternInFile("pattern", num_file, FrequentItems)
         maxFrequentPatterns = findMaxClosedPattern(Patterns)
-        writePatternInFile("max", maxFrequentPatterns)
+        writePatternInFile("max", num_file, maxFrequentPatterns)
         closedFrequentPatterns = findMaxClosedPattern(Patterns, True)
-        writePatternInFile("closed", closedFrequentPatterns)
-        topics_patterns.append(pattern_combinations)
+        writePatternInFile("closed", num_file, closedFrequentPatterns)
+        topics_patterns.append(PatternDict)
 
-    # topics_purity_items = findPureItems(topics_patterns, topics_transactions, num_file)
-    # for i in range(0, len(topics_purity_items)):
-    #     pass
-        #writePatternInFile("purity", topics_purity_items[i])
+    ts1 = time.time()
+    findPureItems(topics_patterns, word_transactions, FpDt) #write will be called in this function only
+    ts2 = time.time()
+    print "Purity Time taken = ", ts2 - ts1
 
-def readTransactionsFromFile(path, num_file):
+def readTransactionsFromFile(path, num_file, vocab_map):
     transactions = []
+    word_transactions = []
     file_name = path + "/" + "topic-" + str(num_file) + ".txt"
     split_point = re.compile("\s+")
     f = open(file_name, 'r')
@@ -339,11 +392,15 @@ def readTransactionsFromFile(path, num_file):
         line = line.strip()
         words = split_point.split(line)
         num_list = []
+        word_list = []
         for word in words:
-            num_list.append(int(word))
+            topic_name = int(word)
+            num_list.append(topic_name)
+            word_list.append(vocab_map[topic_name])
         transactions.append([1, num_list])
+        word_transactions.append(word_list)
     f.close()
-    return transactions
+    return transactions, word_transactions
 
 def makeVocab(path):
     vfile_name = path + "/" + "vocab.txt"
@@ -359,7 +416,7 @@ def makeVocab(path):
 
 
 if __name__ == '__main__':
-    min_support = 20
+    min_support = 0.002
     path = "/home/manshu/UIUC/CS 412 - Data Mining/data-assign3/data-assign3"
     if len(sys.argv) >= 2:
         path = sys.argv[1]
@@ -371,11 +428,12 @@ if __name__ == '__main__':
         [1, ['a', 'f', 'c', 'e', 'l', 'p', 'm', 'n']]
     ]
     make_graph = False
+
     if make_graph:
         import ubigraph
         U = ubigraph.Ubigraph()
         U.clear()
-        #rrgraph_style = U.newVertexStyle(shape="sphere", color="#ffff00", size="2.0")
+        #graph_style = U.newVertexStyle(shape="sphere", color="#ffff00", size="2.0")
 
     FpDt = [
             [10047, 17326, 17988, 17999, 17820],
@@ -386,16 +444,19 @@ if __name__ == '__main__':
         ]
 
     vocab_map = makeVocab(path)
-    ts1 = time.time()
     num_files = 5
     topics_transactions = []
+    topics_words_transactions = []
+
+    ts1 = time.time()
 
     for num_file in range(0, num_files):
-        ptransactions = readTransactionsFromFile(path, num_file)
+        ptransactions, word_transactions = readTransactionsFromFile(path, num_file, vocab_map)
         topics_transactions.append(ptransactions)
+        topics_words_transactions.append(word_transactions)
 
-    solveProblem(topics_transactions, num_files, vocab_map, min_support, make_graph)
+    solveProblem(topics_transactions, topics_words_transactions, num_files, vocab_map, FpDt, min_support, make_graph)
 
-    #mine_frequent_patterns(transactions, vocab_map, 0, [], min_support, make_graph)
+    #mine_frequent_patterns(transactions, (), min_support, make_graph)
     ts2 = time.time()
-    print ts2 - ts1
+    print "Full time taken", ts2 - ts1
