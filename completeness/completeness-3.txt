@@ -1,386 +1,386 @@
-1.0 [theory]
-1.0 [solving]
-1.0 [action]
-1.0 [maintenance]
-1.0 [network]
-1.0 [framework]
-1.0 [computer]
-1.0 [relation]
-1.0 [semantics]
-1.0 [learning, reinforcement]
-1.0 [knowledge, system]
-1.0 [process]
-1.0 [modeling]
-1.0 [knowledge, base]
-1.0 [inference]
-1.0 [complexity]
-1.0 [plan]
-1.0 [diagnosis]
-1.0 [analysis]
-1.0 [engineering]
-1.0 [integrating]
-1.0 [environment]
-1.0 [heuristic]
-1.0 [issue]
-1.0 [integration]
-1.0 [implementation]
-1.0 [knowledge, representation]
-1.0 [logic, program]
-1.0 [database, design]
-1.0 [towards]
-1.0 [automatic]
-1.0 [system, expert]
-1.0 [specification]
-1.0 [level]
-1.0 [formal]
-1.0 [constraint, satisfaction]
-1.0 [based, system]
-1.0 [physical]
-1.0 [abstraction]
-1.0 [view]
-1.0 [update]
-1.0 [technique]
-1.0 [based, knowledge]
-1.0 [semantic]
-1.0 [method]
-1.0 [machine]
-1.0 [practical]
-1.0 [perspective]
-1.0 [management, data]
-1.0 [dbms]
-1.0 [goal]
-1.0 [function]
-1.0 [type]
-1.0 [research]
-1.0 [mechanism]
-1.0 [architecture]
-1.0 [model, data]
-1.0 [incremental]
-1.0 [calculus]
-1.0 [structure]
-1.0 [intelligence, artificial]
-1.0 [distributed]
-1.0 [robot]
-1.0 [probabilistic]
-1.0 [database, object, oriented]
-1.0 [conceptual]
-1.0 [automated]
-1.0 [resolution]
-1.0 [explanation]
-1.0 [experience]
-1.0 [fault]
-1.0 [database, approach]
-1.0 [propagation]
-1.0 [software]
-1.0 [representing]
-1.0 [proof]
-1.0 [incomplete]
-1.0 [human]
-1.0 [heterogeneous]
-1.0 [space]
-1.0 [extended, abstract]
-1.0 [database, application]
-1.0 [computational]
-1.0 [causal]
-1.0 [based, model]
-1.0 [technology]
-1.0 [system, design]
-1.0 [intelligent]
-1.0 [dynamic]
-1.0 [complex]
-1.0 [simulation]
-1.0 [fuzzy]
-1.0 [business]
-1.0 [form]
-1.0 [database, deductive]
-1.0 [change]
-1.0 [challenge]
-1.0 [algebra]
-1.0 [role]
-1.0 [language, database]
-1.0 [database, model]
-1.0 [data, relational]
-1.0 [property]
-1.0 [multiple]
-1.0 [world]
-1.0 [support]
-1.0 [report]
-1.0 [hierarchy]
-1.0 [decomposition]
-1.0 [theoretical]
-1.0 [result]
-1.0 [implementing]
-1.0 [relationship]
-1.0 [meta]
-1.0 [checking]
-1.0 [propositional]
-1.0 [event]
-1.0 [design, data]
-1.0 [description, logic]
-1.0 [scientific]
-1.0 [querying]
-1.0 [prolog]
-1.0 [preference]
-1.0 [generalized]
-1.0 [experimental]
-1.0 [definition]
-1.0 [declarative]
-1.0 [stochastic]
-1.0 [model, system]
-1.0 [evolution]
-1.0 [equilibrium]
-1.0 [transformation]
-1.0 [system, reasoning]
-1.0 [system, production]
-1.0 [transaction]
-1.0 [system, application]
-1.0 [preliminary]
-1.0 [extending]
-1.0 [workflow]
-1.0 [system, rule]
-1.0 [system, base, data]
-1.0 [study]
-1.0 [statistical]
-1.0 [practice]
-1.0 [inheritance]
-1.0 [database, data]
-1.0 [database, constraint]
-1.0 [acquisition, knowledge]
-1.0 [tractable]
-1.0 [situation]
-1.0 [quantitative]
-1.0 [message]
-1.0 [generation]
-1.0 [evaluation]
-1.0 [based, approach]
-1.0 [refinement]
-1.0 [principle]
-1.0 [partially]
-1.0 [knowledge, using]
-1.0 [interactive]
-1.0 [foundation]
-1.0 [database, temporal]
-1.0 [database, system, relational]
-1.0 [algebraic]
-1.0 [predicate]
-1.0 [ontology]
-1.0 [learning, system]
-1.0 [learning, knowledge]
-1.0 [learning, based]
-1.0 [functional, dependency]
-1.0 [formula]
-1.0 [exploiting]
-1.0 [equivalence]
-1.0 [diagnostic]
-1.0 [base, management]
-1.0 [tolerant]
-1.0 [theorem, proving]
-1.0 [requirement]
-1.0 [reasoning, temporal]
-1.0 [policy]
-1.0 [model, relational]
-1.0 [modal]
-1.0 [based, reasoning]
-1.0 [based, logic]
-1.0 [synthesis]
-1.0 [language, programming]
-1.0 [knowledge, reasoning]
-1.0 [formation]
-1.0 [datalog]
-1.0 [database, rule]
-1.0 [concurrent]
-1.0 [based, database]
-1.0 [value]
-1.0 [universal]
-1.0 [operator]
-1.0 [multidatabase]
-1.0 [logic, programming, inductive]
-1.0 [execution]
-1.0 [data, abstract]
-1.0 [based, constraint]
-1.0 [representation, system]
-1.0 [overview]
-1.0 [normal]
-1.0 [multiagent]
-1.0 [knowledge, data]
-1.0 [expressive]
-1.0 [conflict]
-1.0 [computing]
-1.0 [author]
-1.0 [solution]
-1.0 [scheme]
-1.0 [reasoning, qualitative]
-1.0 [logic, system]
-1.0 [extension]
-1.0 [boolean]
-1.0 [behavior]
-1.0 [base, design]
-1.0 [aspect]
-1.0 [security]
-1.0 [procedure]
-1.0 [nonmonotonic]
-1.0 [methodology]
-1.0 [logic, default]
-1.0 [knowledge, expert]
-1.0 [experiment]
-1.0 [database, schema]
-1.0 [constraint, integrity]
-1.0 [application, data]
-1.0 [system, approach]
-1.0 [spatial]
-1.0 [science]
-1.0 [satisfiability]
-1.0 [procedural]
-1.0 [learning, model]
-1.0 [hard]
-1.0 [directed]
-1.0 [database, system, management]
-1.0 [database, abstract]
-1.0 [configuration]
-1.0 [based, rule]
-1.0 [autonomous]
-1.0 [revision, belief]
-1.0 [recursive]
-1.0 [partial]
-1.0 [paper]
-1.0 [manipulation]
-1.0 [knowledge, database, discovery]
-1.0 [development]
-1.0 [database, programming]
-1.0 [database, panel]
-1.0 [database, active]
-1.0 [base, relational]
-1.0 [analogy]
-1.0 [aided]
-1.0 [transfer]
-1.0 [prototype]
-1.0 [parallel]
-1.0 [learning, concept]
-1.0 [knowledge, domain]
-1.0 [knowledge, approach]
-1.0 [interaction]
-1.0 [induction]
-1.0 [hardware]
-1.0 [direction]
-1.0 [answer]
-1.0 [utility]
-1.0 [table]
-1.0 [system, information]
-1.0 [set, rough]
-1.0 [neural]
-1.0 [multi]
-1.0 [monotonic]
-1.0 [interpretation]
-1.0 [horn]
-1.0 [database, tool]
-1.0 [database, information]
-1.0 [constraint, temporal]
-1.0 [clause]
-1.0 [argument]
-1.0 [version]
-1.0 [testing]
-1.0 [planning, domain]
-1.0 [negation]
-1.0 [logic, reasoning]
-1.0 [example]
-1.0 [difference]
-1.0 [construction]
-1.0 [commitment]
-1.0 [basis]
-1.0 [approach, data]
-1.0 [verification]
-1.0 [title]
-1.0 [task]
-1.0 [reward]
-1.0 [object, system, oriented]
-1.0 [negotiation]
-1.0 [mapping, schema]
-1.0 [managing]
-1.0 [learning, game]
-1.0 [knowledge, management]
-1.0 [hypothesis]
-1.0 [equation]
-1.0 [driven]
-1.0 [debugging]
-1.0 [database, logical]
-1.0 [compilation]
-1.0 [approach, design]
-0.9128 [reasoning]
-0.9106 [planning]
-0.8564 [domain]
-0.852 [model]
-0.8452 [knowledge]
-0.8431 [schema]
-0.8312 [temporal]
-0.8241 [logic]
-0.8207 [game]
-0.8201 [approach]
-0.8194 [rule]
-0.8184 [database]
-0.8122 [constraint]
-0.8117 [concept]
-0.8013 [belief]
-0.8 [database, system]
-0.7993 [application]
-0.7903 [learning]
-0.7899 [system]
-0.788 [using]
-0.7867 [based]
-0.7778 [information]
-0.7709 [language]
-0.7556 [qualitative]
-0.7522 [set]
-0.75 [tool]
-0.75 [logical]
-0.7493 [design]
-0.7315 [data]
-0.7138 [program]
-0.7136 [abstract]
-0.7115 [knowledge, discovery]
-0.7029 [base, data]
-0.7013 [description]
-0.6977 [database, relational]
-0.696 [dependency]
-0.6952 [programming]
-0.6771 [system, management]
-0.6709 [mapping]
-0.6616 [representation]
-0.656 [relational]
-0.6449 [inductive]
-0.6203 [panel]
-0.6082 [functional]
-0.6067 [logic, programming]
-0.5983 [management]
-0.5905 [base]
-0.5649 [extended]
-0.5638 [system, data]
-0.5588 [knowledge, database]
-0.5426 [object]
-0.5294 [integrity]
-0.5161 [revision]
-0.5161 [active]
-0.5152 [default]
-0.5 [production]
-0.5 [acquisition]
-0.5 [theorem]
-0.5 [database, management]
-0.4851 [discovery]
-0.4777 [reinforcement]
-0.4533 [system, base]
-0.4298 [intelligence]
-0.4118 [database, discovery]
-0.3824 [object, oriented]
-0.3778 [rough]
-0.3765 [deductive]
-0.3742 [oriented]
-0.344 [expert]
-0.3158 [object, system]
-0.2909 [system, relational]
-0.2745 [proving]
-0.25 [database, object]
-0.1772 [artificial]
-0.1667 [satisfaction]
-0.1613 [system, oriented]
-0.16 [database, oriented]
-0.0789 [programming, inductive]
-0.0541 [logic, inductive]
+1.0 theory 
+1.0 solving 
+1.0 action 
+1.0 maintenance 
+1.0 network 
+1.0 framework 
+1.0 computer 
+1.0 relation 
+1.0 semantics 
+1.0 learning reinforcement 
+1.0 knowledge system 
+1.0 process 
+1.0 modeling 
+1.0 knowledge base 
+1.0 inference 
+1.0 complexity 
+1.0 plan 
+1.0 diagnosis 
+1.0 analysis 
+1.0 engineering 
+1.0 integrating 
+1.0 environment 
+1.0 heuristic 
+1.0 issue 
+1.0 integration 
+1.0 implementation 
+1.0 knowledge representation 
+1.0 logic program 
+1.0 database design 
+1.0 towards 
+1.0 automatic 
+1.0 system expert 
+1.0 specification 
+1.0 level 
+1.0 formal 
+1.0 constraint satisfaction 
+1.0 based system 
+1.0 physical 
+1.0 abstraction 
+1.0 view 
+1.0 update 
+1.0 technique 
+1.0 based knowledge 
+1.0 semantic 
+1.0 method 
+1.0 machine 
+1.0 practical 
+1.0 perspective 
+1.0 management data 
+1.0 dbms 
+1.0 goal 
+1.0 function 
+1.0 type 
+1.0 research 
+1.0 mechanism 
+1.0 architecture 
+1.0 model data 
+1.0 incremental 
+1.0 calculus 
+1.0 structure 
+1.0 intelligence artificial 
+1.0 distributed 
+1.0 robot 
+1.0 probabilistic 
+1.0 database object oriented 
+1.0 conceptual 
+1.0 automated 
+1.0 resolution 
+1.0 explanation 
+1.0 experience 
+1.0 fault 
+1.0 database approach 
+1.0 propagation 
+1.0 software 
+1.0 representing 
+1.0 proof 
+1.0 incomplete 
+1.0 human 
+1.0 heterogeneous 
+1.0 space 
+1.0 extended abstract 
+1.0 database application 
+1.0 computational 
+1.0 causal 
+1.0 based model 
+1.0 technology 
+1.0 system design 
+1.0 intelligent 
+1.0 dynamic 
+1.0 complex 
+1.0 simulation 
+1.0 fuzzy 
+1.0 business 
+1.0 form 
+1.0 database deductive 
+1.0 change 
+1.0 challenge 
+1.0 algebra 
+1.0 role 
+1.0 language database 
+1.0 database model 
+1.0 data relational 
+1.0 property 
+1.0 multiple 
+1.0 world 
+1.0 support 
+1.0 report 
+1.0 hierarchy 
+1.0 decomposition 
+1.0 theoretical 
+1.0 result 
+1.0 implementing 
+1.0 relationship 
+1.0 meta 
+1.0 checking 
+1.0 propositional 
+1.0 event 
+1.0 design data 
+1.0 description logic 
+1.0 scientific 
+1.0 querying 
+1.0 prolog 
+1.0 preference 
+1.0 generalized 
+1.0 experimental 
+1.0 definition 
+1.0 declarative 
+1.0 stochastic 
+1.0 model system 
+1.0 evolution 
+1.0 equilibrium 
+1.0 transformation 
+1.0 system reasoning 
+1.0 system production 
+1.0 transaction 
+1.0 system application 
+1.0 preliminary 
+1.0 extending 
+1.0 workflow 
+1.0 system rule 
+1.0 system base data 
+1.0 study 
+1.0 statistical 
+1.0 practice 
+1.0 inheritance 
+1.0 database data 
+1.0 database constraint 
+1.0 acquisition knowledge 
+1.0 tractable 
+1.0 situation 
+1.0 quantitative 
+1.0 message 
+1.0 generation 
+1.0 evaluation 
+1.0 based approach 
+1.0 refinement 
+1.0 principle 
+1.0 partially 
+1.0 knowledge using 
+1.0 interactive 
+1.0 foundation 
+1.0 database temporal 
+1.0 database system relational 
+1.0 algebraic 
+1.0 predicate 
+1.0 ontology 
+1.0 learning system 
+1.0 learning knowledge 
+1.0 learning based 
+1.0 functional dependency 
+1.0 formula 
+1.0 exploiting 
+1.0 equivalence 
+1.0 diagnostic 
+1.0 base management 
+1.0 tolerant 
+1.0 theorem proving 
+1.0 requirement 
+1.0 reasoning temporal 
+1.0 policy 
+1.0 model relational 
+1.0 modal 
+1.0 based reasoning 
+1.0 based logic 
+1.0 synthesis 
+1.0 language programming 
+1.0 knowledge reasoning 
+1.0 formation 
+1.0 datalog 
+1.0 database rule 
+1.0 concurrent 
+1.0 based database 
+1.0 value 
+1.0 universal 
+1.0 operator 
+1.0 multidatabase 
+1.0 logic programming inductive 
+1.0 execution 
+1.0 data abstract 
+1.0 based constraint 
+1.0 representation system 
+1.0 overview 
+1.0 normal 
+1.0 multiagent 
+1.0 knowledge data 
+1.0 expressive 
+1.0 conflict 
+1.0 computing 
+1.0 author 
+1.0 solution 
+1.0 scheme 
+1.0 reasoning qualitative 
+1.0 logic system 
+1.0 extension 
+1.0 boolean 
+1.0 behavior 
+1.0 base design 
+1.0 aspect 
+1.0 security 
+1.0 procedure 
+1.0 nonmonotonic 
+1.0 methodology 
+1.0 logic default 
+1.0 knowledge expert 
+1.0 experiment 
+1.0 database schema 
+1.0 constraint integrity 
+1.0 application data 
+1.0 system approach 
+1.0 spatial 
+1.0 science 
+1.0 satisfiability 
+1.0 procedural 
+1.0 learning model 
+1.0 hard 
+1.0 directed 
+1.0 database system management 
+1.0 database abstract 
+1.0 configuration 
+1.0 based rule 
+1.0 autonomous 
+1.0 revision belief 
+1.0 recursive 
+1.0 partial 
+1.0 paper 
+1.0 manipulation 
+1.0 knowledge database discovery 
+1.0 development 
+1.0 database programming 
+1.0 database panel 
+1.0 database active 
+1.0 base relational 
+1.0 analogy 
+1.0 aided 
+1.0 transfer 
+1.0 prototype 
+1.0 parallel 
+1.0 learning concept 
+1.0 knowledge domain 
+1.0 knowledge approach 
+1.0 interaction 
+1.0 induction 
+1.0 hardware 
+1.0 direction 
+1.0 answer 
+1.0 utility 
+1.0 table 
+1.0 system information 
+1.0 set rough 
+1.0 neural 
+1.0 multi 
+1.0 monotonic 
+1.0 interpretation 
+1.0 horn 
+1.0 database tool 
+1.0 database information 
+1.0 constraint temporal 
+1.0 clause 
+1.0 argument 
+1.0 version 
+1.0 testing 
+1.0 planning domain 
+1.0 negation 
+1.0 logic reasoning 
+1.0 example 
+1.0 difference 
+1.0 construction 
+1.0 commitment 
+1.0 basis 
+1.0 approach data 
+1.0 verification 
+1.0 title 
+1.0 task 
+1.0 reward 
+1.0 object system oriented 
+1.0 negotiation 
+1.0 mapping schema 
+1.0 managing 
+1.0 learning game 
+1.0 knowledge management 
+1.0 hypothesis 
+1.0 equation 
+1.0 driven 
+1.0 debugging 
+1.0 database logical 
+1.0 compilation 
+1.0 approach design 
+0.9128 reasoning 
+0.9106 planning 
+0.8564 domain 
+0.852 model 
+0.8452 knowledge 
+0.8431 schema 
+0.8312 temporal 
+0.8241 logic 
+0.8207 game 
+0.8201 approach 
+0.8194 rule 
+0.8184 database 
+0.8122 constraint 
+0.8117 concept 
+0.8013 belief 
+0.8 database system 
+0.7993 application 
+0.7903 learning 
+0.7899 system 
+0.788 using 
+0.7867 based 
+0.7778 information 
+0.7709 language 
+0.7556 qualitative 
+0.7522 set 
+0.75 tool 
+0.75 logical 
+0.7493 design 
+0.7315 data 
+0.7138 program 
+0.7136 abstract 
+0.7115 knowledge discovery 
+0.7029 base data 
+0.7013 description 
+0.6977 database relational 
+0.696 dependency 
+0.6952 programming 
+0.6771 system management 
+0.6709 mapping 
+0.6616 representation 
+0.656 relational 
+0.6449 inductive 
+0.6203 panel 
+0.6082 functional 
+0.6067 logic programming 
+0.5983 management 
+0.5905 base 
+0.5649 extended 
+0.5638 system data 
+0.5588 knowledge database 
+0.5426 object 
+0.5294 integrity 
+0.5161 revision 
+0.5161 active 
+0.5152 default 
+0.5 production 
+0.5 acquisition 
+0.5 theorem 
+0.5 database management 
+0.4851 discovery 
+0.4777 reinforcement 
+0.4533 system base 
+0.4298 intelligence 
+0.4118 database discovery 
+0.3824 object oriented 
+0.3778 rough 
+0.3765 deductive 
+0.3742 oriented 
+0.344 expert 
+0.3158 object system 
+0.2909 system relational 
+0.2745 proving 
+0.25 database object 
+0.1772 artificial 
+0.1667 satisfaction 
+0.1613 system oriented 
+0.16 database oriented 
+0.0789 programming inductive 
+0.0541 logic inductive 

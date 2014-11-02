@@ -259,7 +259,7 @@ def make_Pattern_Dictionary(itemListCombinations, vocab_map):
         PatternDict[itemset_words] = item_freq
     return PatternDict
 
-
+# find superset of pattern present in another patterns using supportCheck to determine, if support check True also compares support of super pattern with the given pattern
 def findSuperSet(pattern, patterns, supportCheck=False):
     for pat in patterns:
         match = 1
@@ -276,6 +276,7 @@ def findSuperSet(pattern, patterns, supportCheck=False):
                 return True
     return False
 
+# find max and closed pattern in same function using supportCheck to determine, if support check True also compares support of super pattern with the given pattern
 def findMaxClosedPattern(FrequentPatterns, supportCheck=False):
     Patterns = {}
     for i in range(1, max(FrequentPatterns.keys()) + 1):
@@ -356,11 +357,11 @@ def writeDoubleSortedPatternInFile(file_name, num_file, PatternItems):
     for FI in sorted(PatternItems.keys(), key=lambda key: key, reverse=True):
         PatternItems[FI].sort(reverse=True)
         for patterns in PatternItems[FI]:
-            line = str(FI) + " ["
+            line = str(FI) + " "
             for pattern in patterns[1]:
-                line = line + str(pattern) + ", "
-            line = line[:-2]
-            line += "]\n"
+                line = line + str(pattern) + " "
+            #line = line[:-2]
+            line += "\n"
             f.write(line)
     f.close()
 
