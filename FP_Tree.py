@@ -7,8 +7,6 @@ import os
 import time
 import math
 import sys
-import shutil
-import errno
 
 ## FP Tree node containing its childs, parent, its name and prefix value
 class TreeNode:
@@ -396,7 +394,8 @@ def findPureItems(topic_patterns, topics_transactions, Dt):
 def writePatternInFile(file_name, num_file, FrequentItems):
     if not os.path.exists(file_name):
         os.makedirs(file_name)
-    f = open(file_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
+    dir_name = file_name
+    f = open(dir_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
     for FI in sorted(FrequentItems.keys(), key=lambda key: key, reverse=True):
         for patterns in FrequentItems[FI]:
             line = str(FI) + " "
@@ -406,6 +405,19 @@ def writePatternInFile(file_name, num_file, FrequentItems):
             line += "\n"
             f.write(line)
     f.close()
+    #copy contents of pattern into patterns, since not clear in assignment that folder should be pattern or patterns
+    if file_name == "pattern":
+        dir_name = "patterns"
+        f = open(dir_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
+        for FI in sorted(FrequentItems.keys(), key=lambda key: key, reverse=True):
+            for patterns in FrequentItems[FI]:
+                line = str(FI) + " "
+                for pattern in patterns:
+                    line = line + str(pattern) + " "
+                #line = line[:-2]
+                line += "\n"
+                f.write(line)
+        f.close()
 
 ## call mine_fp_tree with null conditional base
 def mine_frequent_patterns(transactions, conditional_base = (), min_support = 1, make_graph=False):
@@ -618,14 +630,5 @@ if __name__ == '__main__':
 
     #mine_frequent_patterns(transactions, (), min_support, make_graph)
 
-    #shutil.copytree("pattern", "patterns") # copy contents of pattern into patterns, since not clear in assignment that folder should be pattern or patterns
-    src, dst = ("pattern", "patterns")
-    try:
-        shutil.rmtree(dst)
-        shutil.copytree(src, dst)
-    except OSError as exc: # python >2.5
-        if exc.errno == errno.ENOTDIR:
-            shutil.copy(src, dst)
-        else: raise
     ts2 = time.time()
     print "\n\nFull time taken", ts2 - ts1
