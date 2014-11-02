@@ -72,9 +72,9 @@
 0.0094 integrating 
 0.0094 satisfaction 
 0.0094 system management 
-0.0093 heuristic 
 0.0093 environment 
 0.0093 system data 
+0.0093 heuristic 
 0.0092 issue 
 0.0092 integration 
 0.0089 implementation 
@@ -106,8 +106,8 @@
 0.0074 database oriented 
 0.0074 system base 
 0.0073 method 
-0.0073 semantic 
 0.0073 machine 
+0.0073 semantic 
 0.0073 theorem 
 0.0072 practical 
 0.0072 dbms 
@@ -208,8 +208,8 @@
 0.0042 system reasoning 
 0.0042 system production 
 0.0041 transaction 
-0.0041 extending 
 0.0041 system application 
+0.0041 extending 
 0.0041 preliminary 
 0.004 workflow 
 0.004 system rule 
@@ -225,24 +225,24 @@
 0.0039 message 
 0.0039 quantitative 
 0.0039 evaluation 
-0.0039 based approach 
 0.0039 tractable 
+0.0039 based approach 
 0.0039 generation 
 0.0038 partially 
 0.0038 principle 
 0.0038 database temporal 
 0.0038 foundation 
 0.0038 knowledge using 
+0.0038 interactive 
 0.0038 refinement 
 0.0038 algebraic 
-0.0038 interactive 
 0.0038 database system relational 
 0.0037 equivalence 
+0.0037 base management 
 0.0037 learning system 
 0.0037 functional dependency 
 0.0037 predicate 
 0.0037 exploiting 
-0.0037 base management 
 0.0037 learning knowledge 
 0.0037 formula 
 0.0037 ontology 
@@ -253,8 +253,8 @@
 0.0036 requirement 
 0.0036 model relational 
 0.0036 policy 
-0.0036 logic inductive 
 0.0036 based reasoning 
+0.0036 logic inductive 
 0.0036 modal 
 0.0036 based logic 
 0.0036 tolerant 
@@ -279,21 +279,21 @@
 0.0033 computing 
 0.0033 expressive 
 0.0033 knowledge data 
+0.0033 multiagent 
 0.0033 normal 
 0.0033 overview 
 0.0033 conflict 
-0.0033 multiagent 
 0.0033 representation system 
 0.0033 author 
-0.0032 behavior 
 0.0032 extension 
 0.0032 aspect 
 0.0032 base design 
 0.0032 scheme 
+0.0032 boolean 
 0.0032 reasoning qualitative 
+0.0032 behavior 
 0.0032 logic system 
 0.0032 solution 
-0.0032 boolean 
 0.0031 system approach 
 0.0031 science 
 0.0031 knowledge expert 
@@ -306,7 +306,6 @@
 0.0031 nonmonotonic 
 0.0031 procedure 
 0.0031 configuration 
-0.0031 procedural 
 0.0031 spatial 
 0.0031 autonomous 
 0.0031 application data 
@@ -315,6 +314,7 @@
 0.0031 directed 
 0.0031 learning model 
 0.0031 hard 
+0.0031 procedural 
 0.0031 satisfiability 
 0.0031 database schema 
 0.0031 database system management 
@@ -325,17 +325,17 @@
 0.003 knowledge database discovery 
 0.003 database panel 
 0.003 base relational 
+0.003 partial 
 0.003 analogy 
 0.003 development 
 0.003 manipulation 
 0.003 aided 
-0.003 partial 
 0.003 revision belief 
 0.0029 direction 
 0.0029 learning concept 
-0.0029 induction 
 0.0029 hardware 
 0.0029 answer 
+0.0029 induction 
 0.0029 knowledge approach 
 0.0029 prototype 
 0.0029 knowledge domain 
@@ -384,95 +384,3 @@
 0.0026 approach design 
 0.0026 debugging 
 0.0026 hypothesis 
-0.0025 base design data 
-0.0025 normal form 
-0.0025 consistency 
-0.0025 learning inductive 
-0.0025 logic model 
-0.0025 knowledge logic 
-0.0025 database specification 
-0.0025 search 
-0.0025 terminological 
-0.0025 system management data 
-0.0025 interface 
-0.0025 disjunctive 
-0.0025 database research 
-0.0025 adding 
-0.0025 model reasoning 
-0.0025 learning approach 
-0.0024 mdps 
-0.0024 skill 
-0.0024 database using 
-0.0024 based knowledge system 
-0.0024 circumscription 
-0.0024 understanding 
-0.0024 observable 
-0.0024 knowledge application 
-0.0024 step 
-0.0024 logic database 
-0.0024 computer aided 
-0.0024 language data 
-0.0023 database integrity 
-0.0023 power 
-0.0023 diagnosis system 
-0.0023 reasoning constraint 
-0.0023 object model 
-0.0023 knowledge design 
-0.0023 forward 
-0.0023 design physical 
-0.0023 flexible 
-0.0023 relational algebra 
-0.0023 circuit 
-0.0023 committee 
-0.0023 reasoning default 
-0.0023 preliminary report 
-0.0023 theory practice 
-0.0023 knowledge model 
-0.0023 future 
-0.0023 tutorial 
-0.0023 net 
-0.0023 building 
-0.0023 observation 
-0.0023 system abstract 
-0.0022 tolerant fault 
-0.0022 knowledge system base 
-0.0022 engineering data 
-0.0022 quantified 
-0.0022 database update 
-0.0022 index 
-0.0022 symbolic 
-0.0022 integrating system 
-0.0022 database technology 
-0.0022 advanced 
-0.0022 logic modal 
-0.0022 lisp 
-0.0022 monitoring 
-0.0022 database implementation 
-0.0022 meet 
-0.0022 condition 
-0.0022 database dependency 
-0.0022 base management data 
-0.0022 expression 
-0.0022 integration data 
-0.0022 abduction 
-0.0022 database semantics 
-0.0022 versus 
-0.0022 modular 
-0.0021 action reasoning 
-0.0021 information incomplete 
-0.0021 introduction 
-0.0021 using system 
-0.0021 based programming 
-0.0021 argumentation 
-0.0021 inferring 
-0.0021 language model 
-0.0021 analogical 
-0.0021 telecommunication 
-0.0021 learning relational 
-0.0021 database object system 
-0.0021 based language 
-0.0021 protocol 
-0.0021 system implementation 
-0.0021 facility 
-0.0021 system program 
-0.0021 updating 

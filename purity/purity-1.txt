@@ -52,15 +52,16 @@
 0.004759 probability 
 0.004699 learning active 
 0.004639 bayes 
+0.004639 identification 
 0.004579 using network 
-0.004579 empirical 
 0.004579 using recognition 
+0.004579 empirical 
 0.004518 text categorization 
 0.004458 learning bayesian 
 0.004301 using model 
 0.004203 regression 
-0.004157 spectral 
 0.004157 learning algorithm 
+0.004157 spectral 
 0.004122 active 
 0.004092 robust 
 0.003993 learning model 
@@ -75,6 +76,8 @@
 0.003494 model probabilistic 
 0.003434 predicting 
 0.003414 comparison 
+0.003374 generalization 
+0.003374 learning approach 
 0.003342 multi 
 0.003313 method based 
 0.003313 learning semi 
@@ -88,8 +91,8 @@
 0.003193 gaussian 
 0.003193 component 
 0.003133 model mixture 
-0.003133 conditional 
 0.003133 naive 
+0.003133 conditional 
 0.003133 auction 
 0.003133 discriminant 
 0.003072 learning semi supervised 
@@ -124,17 +127,17 @@
 0.002651 hidden markov 
 0.00259 closure 
 0.00259 model clustering 
-0.00259 based selection 
 0.00259 nonlinear 
+0.00259 based selection 
 0.00259 learning kernel 
-0.002534 identification 
-0.00253 cost sensitive 
 0.00253 transitive 
+0.00253 cost sensitive 
+0.00253 estimating 
 0.00253 criterion 
 0.00247 based recognition 
+0.00247 learning data 
 0.00247 model hidden markov 
 0.00247 using classifier 
-0.00247 learning data 
 0.00241 learning example 
 0.00241 learning function 
 0.002375 example 
@@ -144,16 +147,18 @@
 0.002289 localization 
 0.002289 classification model 
 0.002289 single 
+0.002289 symbolic 
 0.002289 learning decision 
+0.002289 structure network 
 0.002289 feature text 
 0.002289 curve 
-0.002289 structure network 
 0.002229 label 
 0.002229 bayes naive 
 0.002229 learning tree 
 0.002229 image segmentation 
 0.002169 learning text 
 0.002169 bias 
+0.002169 clustering document 
 0.002169 using object 
 0.002169 frame 
 0.002169 classifier bayesian 
@@ -163,6 +168,7 @@
 0.002109 decision markov 
 0.002109 diagram 
 0.002109 learning unsupervised 
+0.002109 sample 
 0.002109 output 
 0.002048 closure transitive 
 0.002048 using bayesian 
@@ -180,13 +186,13 @@
 0.001988 regularization 
 0.001988 gradient 
 0.001928 dual 
+0.001928 efficiency 
 0.001928 boundary 
 0.001928 using multi 
 0.001928 generative 
 0.001928 model hierarchical 
 0.001928 learning selection 
 0.001928 signal 
-0.001928 efficiency 
 0.001868 learning classifier 
 0.001868 labeled 
 0.001868 using decision 
@@ -197,13 +203,14 @@
 0.00185 vision 
 0.001807 learning image 
 0.001807 positive 
-0.001807 classification hierarchical 
+0.001807 using analysis 
 0.001807 process markov 
 0.001807 failure 
 0.001807 named 
 0.001807 classification machine 
 0.001807 process gaussian 
 0.001807 learning analysis 
+0.001807 classification hierarchical 
 0.001747 parametric 
 0.001747 simultaneous 
 0.001747 finite 
@@ -213,6 +220,7 @@
 0.001747 using probabilistic 
 0.001747 principal 
 0.001747 using approach 
+0.001747 using tree 
 0.001747 illumination 
 0.001747 using support 
 0.001687 model bayesian 
@@ -247,17 +255,19 @@
 0.001566 voting 
 0.001566 learning support 
 0.001566 classifying 
-0.001566 classification multi 
 0.001566 model network 
+0.001566 classification multi 
 0.001566 analyzing 
 0.001512 hybrid 
 0.001506 learning adaptive 
 0.001506 learning class 
 0.001506 instance multiple 
+0.001506 category 
 0.001506 classification support 
 0.001506 logistic 
 0.001506 using network neural 
 0.001506 classification data 
+0.001506 record 
 0.001506 named entity 
 0.001506 learning recognition 
 0.001506 feature image 
@@ -268,187 +278,54 @@
 0.001506 mixed 
 0.001506 using multiple 
 0.001506 pairwise 
+0.001506 based tree 
 0.001506 using kernel 
 0.001506 model feature 
-0.001446 using markov 
-0.001446 lexical 
-0.001446 risk 
-0.001446 clustering approach 
-0.001446 classification vector 
-0.001446 svms 
-0.001446 discrimination 
-0.001446 classification kernel 
-0.001446 model approach 
-0.001446 using segmentation 
-0.001446 using structure 
-0.001446 learning clustering 
-0.001446 learning ranking 
-0.001446 learning vector 
-0.001426 learning approach 
-0.001386 based support 
-0.001386 model latent 
-0.001386 classification approach 
-0.001386 using support vector 
-0.001386 roc 
-0.001386 classification class 
-0.001386 method clustering 
-0.001386 learning local 
-0.001386 model analysis 
-0.001386 using machine vector 
-0.001386 soft 
-0.001386 tensor 
-0.001386 valued 
-0.001386 based instance 
-0.001386 selection text 
-0.001386 algorithm network 
-0.001386 lazy 
-0.001386 influence 
-0.001382 generalization 
-0.001325 classification supervised 
-0.001325 gesture 
-0.001325 text classifier 
-0.001325 sketch 
-0.001325 based bayesian 
-0.001325 model combining 
-0.001325 classification support vector 
-0.001325 using prediction 
-0.001325 clustering semi 
-0.001325 learning probabilistic 
-0.001325 learning instance multiple 
-0.001325 learning task 
-0.001325 based classifier 
-0.001325 classification using text 
-0.001325 rare 
-0.001325 network markov 
-0.001325 model algorithm 
-0.001325 learning sensitive 
-0.001325 using support machine 
-0.001325 bagging 
-0.001325 using support machine vector 
 0.001319 structural 
-0.001265 clustering semi supervised 
-0.001265 learning neural 
-0.001265 topological 
-0.001265 matrix factorization 
-0.001265 based hierarchical 
-0.001265 model process 
-0.001265 weak 
-0.001265 collective 
-0.001265 model estimation 
-0.001265 algorithm selection 
-0.001265 component principal 
-0.001265 recognition pattern 
-0.001265 learning cost 
-0.001265 combining multiple 
-0.001265 classification support machine 
-0.001265 space vector 
-0.001265 bottom 
-0.001265 learning process 
-0.001265 based feature selection 
-0.001265 based structure 
-0.001265 learning comparison 
-0.001265 learning framework 
-0.001265 estimate 
-0.001265 classification document 
-0.001265 clustering text 
-0.001205 feature selection text 
-0.001205 regression logistic 
-0.001205 model prediction 
-0.001205 model tree 
-0.001205 classifier naive 
-0.001205 linkage 
-0.001205 classification selection 
-0.001205 compound 
-0.001205 classification machine vector 
-0.001205 learn 
-0.001205 transductive 
-0.001205 regularized 
-0.001205 learning support vector 
-0.001205 varying 
-0.001205 classifier bayes 
-0.001205 learning training 
-0.001205 robustness 
-0.001205 batch 
-0.001205 learning object 
-0.001205 clustering spectral 
-0.001205 coding 
-0.001205 classification image 
-0.001205 based segmentation 
-0.001205 objective 
-0.001205 classification support machine vector 
-0.001205 using active 
-0.001205 via clustering 
-0.001205 imbalanced 
 0.00119 improving 
 0.001188 estimation 
 0.000923 online 
 0.000875 function 
 0.000753 analysis 
-0.000623 symbolic 
 0.000606 distribution 
 0.000603 based clustering 
-0.000568 estimating 
 0.000503 scene 
-0.000484 clustering document 
 0.000454 based model 
 0.000438 region 
-0.000408 sample 
 0.00033 novel 
-0.000244 using analysis 
 0.000205 decision tree 
 0.000163 statistical 
 0.000145 error 
 0.000102 density 
-5.5e-05 using tree 
 1.7e-05 tracking 
 6e-06 mean 
-5e-06 category 
 2e-06 filter 
 -0.000104 human 
 -0.000108 noisy 
--0.000125 based tree 
 -0.000143 rank 
--0.000151 network social 
--0.000215 record 
--0.00022 limited 
--0.000251 pair 
--0.000292 unified 
 -0.000293 image 
--0.000306 labeling 
 -0.000306 induction 
--0.00031 object model 
--0.00031 minimization 
+-0.000306 labeling 
 -0.00031 based analysis 
--0.000352 based detection 
--0.000378 direct 
 -0.000398 visual 
 -0.000405 evolutionary 
 -0.000406 process 
 -0.000462 ranking 
 -0.000471 speech 
--0.000484 relative 
--0.000503 utility 
--0.000508 accurate 
 -0.000551 cost 
 -0.000569 based text 
 -0.000612 using algorithm 
 -0.000649 projection 
--0.000683 effect 
 -0.000719 stochastic 
 -0.000719 improve 
 -0.000767 exploiting 
 -0.000782 transformation 
--0.000797 using document 
 -0.000801 based image 
 -0.000829 structure 
 -0.000865 attribute 
 -0.000879 global 
--0.000943 partially 
--0.000943 refinement 
 -0.000973 interpretation 
--0.000977 counting 
 -0.000984 generalized 
--0.001031 test 
 -0.001034 latent 
 -0.001041 causal 
 -0.001046 preference 
@@ -456,27 +333,19 @@
 -0.001091 based algorithm 
 -0.001095 partial 
 -0.001127 reconstruction 
--0.001156 constrained 
--0.001167 randomized 
 -0.00118 line 
 -0.001186 subspace 
 -0.001235 incremental 
 -0.00124 solution 
--0.001258 meta 
--0.001402 pruning 
 -0.001405 clustering algorithm 
 -0.00141 resolution 
 -0.00141 explanation 
--0.001433 detecting 
 -0.001437 inference 
 -0.001457 video 
 -0.001475 field 
--0.001515 computational 
 -0.00153 event 
--0.001578 decomposition 
 -0.0016 construction 
 -0.00168 effective 
--0.001694 binary 
 -0.00172 aggregation 
 -0.001734 model data 
 -0.001745 local 
@@ -485,12 +354,9 @@
 -0.001798 surface 
 -0.0018 correlation 
 -0.001823 type 
--0.001842 evaluating 
 -0.001897 strategy 
 -0.001917 edge 
--0.002019 based data 
 -0.002027 link 
--0.002034 mapping 
 -0.00207 based approach 
 -0.002079 simple 
 -0.002114 level 
@@ -499,30 +365,22 @@
 -0.002329 task 
 -0.002383 weighted 
 -0.0024 value 
--0.002415 sensor 
--0.002419 self 
 -0.002453 matrix 
 -0.002471 framework 
 -0.002551 continuous 
--0.002592 building 
 -0.002688 structured 
 -0.002719 social 
--0.002751 clustering data 
 -0.002785 plan 
 -0.002799 sampling 
--0.002874 sequential 
--0.002947 cluster 
 -0.003024 scale 
 -0.003054 topic 
 -0.003085 complex 
 -0.003105 dependency 
 -0.003108 motion 
 -0.003141 collection 
--0.003277 generation 
 -0.003353 relation 
 -0.003355 sequence 
 -0.003378 robot 
--0.003464 interactive 
 -0.003543 study 
 -0.003628 extraction 
 -0.003699 distance 

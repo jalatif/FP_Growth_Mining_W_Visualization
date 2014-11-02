@@ -9,10 +9,10 @@
 0.012486 reinforcement 
 0.012058 programming 
 0.01106 design 
+0.009922 solving 
 0.008584 description 
 0.008417 belief 
 0.008417 maintenance 
-0.008062 solving 
 0.007739 relational 
 0.007525 qualitative 
 0.007335 representation 
@@ -38,6 +38,8 @@
 0.00485 logic program 
 0.004794 production 
 0.004787 base data 
+0.004738 deductive 
+0.004738 database design 
 0.004683 temporal 
 0.004571 specification 
 0.004562 dependency 
@@ -67,18 +69,20 @@
 0.003233 incomplete 
 0.003233 representing 
 0.003177 database application 
+0.003177 computational 
 0.003066 system design 
 0.00301 simulation 
+0.002954 database deductive 
+0.002954 algebra 
 0.002954 form 
 0.002899 language database 
-0.002895 database design 
 0.002843 proving 
 0.002843 database discovery 
-0.002817 deductive 
 0.002787 report 
 0.002731 theoretical 
 0.002731 implementing 
 0.002676 checking 
+0.002676 meta 
 0.00262 propositional 
 0.002589 plan 
 0.002564 design data 
@@ -95,6 +99,7 @@
 0.002397 system production 
 0.002341 system application 
 0.002341 preliminary 
+0.002285 workflow 
 0.002285 system rule 
 0.002285 acquisition knowledge 
 0.002285 inheritance 
@@ -105,14 +110,17 @@
 0.00223 message 
 0.00223 quantitative 
 0.00223 tractable 
+0.002174 partially 
 0.002174 principle 
+0.002174 database temporal 
 0.002174 foundation 
 0.002174 knowledge using 
+0.002174 refinement 
 0.002174 algebraic 
 0.002118 equivalence 
+0.002118 base management 
 0.002118 learning system 
 0.002118 functional dependency 
-0.002118 base management 
 0.002118 learning knowledge 
 0.002118 formula 
 0.002118 diagnostic 
@@ -121,8 +129,8 @@
 0.002097 discovery 
 0.002062 requirement 
 0.002062 model relational 
-0.002062 logic inductive 
 0.002062 based reasoning 
+0.002062 logic inductive 
 0.002062 modal 
 0.002062 based logic 
 0.002062 tolerant 
@@ -141,17 +149,19 @@
 0.001951 logic programming inductive 
 0.001895 expressive 
 0.001895 knowledge data 
-0.001895 normal 
-0.001895 conflict 
 0.001895 multiagent 
+0.001895 normal 
+0.001895 overview 
+0.001895 conflict 
 0.001895 representation system 
 0.001895 author 
 0.001853 extended 
+0.00184 extension 
 0.00184 aspect 
 0.00184 base design 
+0.00184 boolean 
 0.00184 reasoning qualitative 
 0.00184 logic system 
-0.00184 boolean 
 0.001835 panel 
 0.001784 knowledge expert 
 0.001784 security 
@@ -165,9 +175,10 @@
 0.001728 system approach 
 0.001728 science 
 0.001728 database abstract 
+0.001728 based rule 
 0.001728 configuration 
-0.001728 procedural 
 0.001728 hard 
+0.001728 procedural 
 0.001728 satisfiability 
 0.001672 database programming 
 0.001672 paper 
@@ -183,9 +194,11 @@
 0.001617 learning concept 
 0.001617 hardware 
 0.001617 knowledge approach 
+0.001617 prototype 
 0.001617 knowledge domain 
 0.001617 transfer 
 0.001603 type 
+0.001561 utility 
 0.001561 constraint temporal 
 0.001561 clause 
 0.001561 database tool 
@@ -202,7 +215,6 @@
 0.001505 difference 
 0.001505 logic reasoning 
 0.001504 database relational 
-0.00149 computational 
 0.001451 model data 
 0.001449 database logical 
 0.001449 equation 
@@ -218,80 +230,9 @@
 0.001449 debugging 
 0.001449 hypothesis 
 0.001398 complexity 
-0.001394 base design data 
-0.001394 normal form 
-0.001394 learning inductive 
-0.001394 logic model 
-0.001394 knowledge logic 
-0.001394 database specification 
-0.001394 terminological 
-0.001394 disjunctive 
-0.001394 database research 
-0.001394 adding 
-0.001394 model reasoning 
 0.001377 acquisition 
-0.001338 mdps 
-0.001338 skill 
-0.001338 based knowledge system 
-0.001338 circumscription 
-0.001338 observable 
-0.001338 knowledge application 
-0.001338 step 
-0.001338 logic database 
-0.001338 computer aided 
-0.001338 language data 
-0.001287 database deductive 
-0.001282 database integrity 
-0.001282 diagnosis system 
-0.001282 reasoning constraint 
-0.001282 knowledge design 
-0.001282 forward 
-0.001282 design physical 
-0.001282 relational algebra 
-0.001282 circuit 
-0.001282 committee 
-0.001282 reasoning default 
-0.001282 preliminary report 
-0.001282 theory practice 
-0.001282 knowledge model 
-0.001282 tutorial 
-0.001282 net 
-0.001282 observation 
-0.001282 system abstract 
-0.001226 tolerant fault 
-0.001226 knowledge system base 
-0.001226 engineering data 
-0.001226 quantified 
-0.001226 integrating system 
-0.001226 database technology 
-0.001226 logic modal 
-0.001226 lisp 
-0.001226 database implementation 
-0.001226 meet 
-0.001226 condition 
-0.001226 database dependency 
-0.001226 base management data 
-0.001226 abduction 
-0.001226 database semantics 
-0.001226 versus 
-0.001226 modular 
-0.001216 algebra 
 0.001182 expert 
-0.001171 action reasoning 
-0.001171 information incomplete 
-0.001171 introduction 
-0.001171 based programming 
-0.001171 argumentation 
-0.001171 inferring 
-0.001171 analogical 
-0.001171 telecommunication 
-0.001171 learning relational 
-0.001171 system implementation 
-0.001171 facility 
-0.001171 system program 
-0.001171 updating 
 0.00112 tool 
-0.00103 meta 
 0.000893 data relational 
 0.000893 database model 
 0.000769 conceptual 
@@ -300,12 +241,8 @@
 0.000649 system relational 
 0.0006 resolution 
 0.0006 explanation 
-0.000587 database temporal 
 0.000546 evolution 
 0.000527 business 
-0.00052 partially 
-0.000494 refinement 
-0.000465 workflow 
 0.000433 role 
 0.000409 mechanism 
 0.000401 hierarchy 
@@ -317,44 +254,30 @@
 0.000291 extending 
 0.000275 database system relational 
 0.000268 research 
-0.000258 overview 
 0.000185 model system 
 0.000182 application 
 0.000172 experimental 
 0.000149 fuzzy 
 9.4e-05 causal 
-9e-05 prototype 
-6.6e-05 extension 
-5.1e-05 based rule 
 5.1e-05 framework 
 4.3e-05 transformation 
 -3e-05 concurrent 
 -8.2e-05 stochastic 
--0.00013 utility 
--0.000134 object model 
--0.000173 integration data 
 -0.000182 autonomous 
--0.000265 future 
 -0.000273 extended abstract 
 -0.000277 change 
 -0.000284 operator 
--0.000322 database update 
 -0.000338 exploiting 
--0.000347 database using 
 -0.00036 policy 
 -0.000384 version 
--0.000396 advanced 
 -0.000403 relationship 
 -0.000423 predicate 
 -0.000511 challenge 
--0.000552 power 
 -0.000571 approach data 
 -0.000592 based database 
 -0.000628 table 
--0.000633 system management data 
 -0.000639 incremental 
 -0.000646 object system oriented 
--0.000683 using system 
 -0.000711 system oriented 
 -0.000716 implementation 
 -0.000725 inference 
@@ -364,30 +287,23 @@
 -0.000872 integration 
 -0.000874 technology 
 -0.000893 system management 
--0.000925 flexible 
 -0.00093 decomposition 
 -0.000937 interpretation 
--0.000946 symbolic 
 -0.001105 human 
 -0.001105 event 
 -0.001106 answer 
--0.001131 database object system 
 -0.001156 managing 
 -0.001216 solution 
--0.001268 based language 
 -0.001283 heterogeneous 
 -0.001291 modeling 
 -0.001299 experiment 
 -0.001335 automated 
 -0.001391 world 
 -0.001404 directed 
--0.001405 consistency 
 -0.001435 recursive 
 -0.001456 partial 
 -0.001497 testing 
--0.001499 learning approach 
 -0.001536 object system 
--0.001568 monitoring 
 -0.001585 generalized 
 -0.00159 construction 
 -0.001658 database data 
@@ -395,7 +311,6 @@
 -0.001698 management data 
 -0.00174 system data 
 -0.001742 intelligent 
--0.001794 language model 
 -0.001824 development 
 -0.001859 induction 
 -0.001899 database oriented 
@@ -404,7 +319,6 @@
 -0.002024 based approach 
 -0.002064 based system 
 -0.002107 database object oriented 
--0.002155 protocol 
 -0.002175 execution 
 -0.002179 example 
 -0.002212 behavior 
@@ -413,10 +327,7 @@
 -0.002336 scheme 
 -0.002461 task 
 -0.002497 value 
--0.002564 building 
 -0.002573 management 
--0.002575 expression 
--0.00263 understanding 
 -0.002801 based model 
 -0.002806 approach 
 -0.002828 learning model 
@@ -437,14 +348,12 @@
 -0.003571 architecture 
 -0.003577 study 
 -0.003616 system information 
--0.003674 interface 
 -0.003897 spatial 
 -0.003923 database object 
 -0.003989 generation 
 -0.004017 active 
 -0.004044 interactive 
 -0.004203 technique 
--0.00428 index 
 -0.004667 transaction 
 -0.004909 multi 
 -0.004994 multiple 
@@ -457,7 +366,6 @@
 -0.005802 space 
 -0.005818 automatic 
 -0.006043 database system 
--0.006891 search 
 -0.007113 view 
 -0.007782 set 
 -0.007848 machine 

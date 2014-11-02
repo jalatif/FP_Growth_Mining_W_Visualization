@@ -7,6 +7,8 @@ import os
 import time
 import math
 import sys
+import shutil
+import errno
 
 ## FP Tree node containing its childs, parent, its name and prefix value
 class TreeNode:
@@ -564,7 +566,7 @@ def makeVocab(path):
     return vocab_map
 
 if __name__ == '__main__':
-    min_support = 0.002 #Relative min support
+    min_support = 0.0025 #Relative min support
     path = "." #"/home/manshu/UIUC/CS 412 - Data Mining/data-assign3/data-assign3"
     if len(sys.argv) >= 2:
         path = sys.argv[1]
@@ -614,5 +616,15 @@ if __name__ == '__main__':
     solveProblem(topics_transactions, topics_words_transactions, num_files, vocab_map, FpDt, min_support, make_graph)
 
     #mine_frequent_patterns(transactions, (), min_support, make_graph)
+
+    #shutil.copytree("pattern", "patterns") # copy contents of pattern into patterns, since not clear in assignment that folder should be pattern or patterns
+    src, dst = ("pattern", "patterns")
+    try:
+        shutil.rmtree(dst)
+        shutil.copytree(src, dst)
+    except OSError as exc: # python >2.5
+        if exc.errno == errno.ENOTDIR:
+            shutil.copy(src, dst)
+        else: raise
     ts2 = time.time()
     print "\n\nFull time taken", ts2 - ts1

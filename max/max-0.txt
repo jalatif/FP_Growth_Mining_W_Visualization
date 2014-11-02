@@ -1,4 +1,7 @@
 170 approximate 
+161 metric 
+157 dynamic 
+142 method 
 134 distance 
 123 via 
 123 rule mining association 
@@ -7,9 +10,12 @@
 108 clustering data 
 107 algorithm efficient 
 102 sampling 
+97 computation 
 93 value 
 92 sparse 
+90 dimension 
 90 matrix 
+89 structure 
 87 scheme 
 87 data set 
 86 map 
@@ -20,6 +26,7 @@
 83 flow 
 83 attribute 
 80 estimation 
+76 simple 
 76 algorithm graph 
 74 online 
 74 decision tree 
@@ -39,11 +46,18 @@
 64 bounded 
 64 representation 
 64 algorithm time 
+63 partitioning 
+63 incremental 
 63 searching 
 62 complexity 
+61 binary 
 61 length 
+61 entropy 
+61 parallel 
 60 construction 
+60 induction 
 60 error 
+59 near 
 59 algorithm fast 
 58 event 
 57 testing 
@@ -53,6 +67,7 @@
 57 bound lower 
 57 mining graph 
 56 efficiently 
+56 directed 
 56 dimensionality reduction 
 55 classification 
 54 algorithm optimal 
@@ -63,6 +78,8 @@
 54 tree algorithm 
 53 convex 
 53 minimal 
+53 sense 
+52 subspace 
 52 detecting 
 52 solution 
 52 analysis data 
@@ -76,7 +93,9 @@
 49 extended abstract 
 49 mining frequent pattern 
 48 location 
+48 cube 
 48 programming 
+48 rule data 
 48 time data series 
 47 connectivity 
 47 item 
@@ -90,6 +109,8 @@
 46 cost 
 46 mining set 
 45 max 
+45 combinatorial 
+45 categorical 
 45 sat 
 45 generation 
 45 algorithm improved 
@@ -99,8 +120,10 @@
 44 maximal 
 44 towards 
 44 network 
+43 randomized 
 43 generating 
 43 based clustering 
+42 application data 
 42 sequential mining pattern 
 41 packing 
 41 average 
@@ -116,8 +139,10 @@
 40 random graph 
 40 using algorithm 
 40 tree mining 
+39 faster 
 39 deterministic 
 39 biological 
+39 duplicate 
 39 fuzzy 
 39 mining closed 
 39 time polynomial 
@@ -128,6 +153,7 @@
 38 counting 
 38 modeling 
 38 study 
+38 data frequent 
 37 regular 
 37 histogram 
 37 scaling 
@@ -137,6 +163,7 @@
 37 effective 
 37 index 
 37 graph path 
+37 data association 
 37 data privacy preserving 
 36 degree 
 36 transition 
@@ -145,6 +172,7 @@
 36 scalable 
 36 regression 
 36 database mining 
+36 time pattern 
 36 mining data stream 
 35 phase 
 35 embedding 
@@ -184,6 +212,7 @@
 32 connected 
 32 word 
 32 matching algorithm 
+32 based time 
 31 rank 
 31 covering 
 31 trajectory 
@@ -194,7 +223,9 @@
 31 self 
 31 mining sequence 
 31 algorithm linear 
+31 application mining 
 31 data fast 
+31 using rule 
 30 synopsis 
 30 minimizing 
 30 data similarity 
@@ -206,6 +237,7 @@
 29 customer 
 29 node 
 29 multidimensional 
+29 disambiguation 
 29 routing 
 29 power 
 29 concept 
@@ -248,6 +280,7 @@
 27 frequent efficient 
 27 data gene expression 
 27 algorithm mining data 
+26 tight 
 26 core 
 26 relative 
 26 region 
@@ -260,6 +293,7 @@
 26 spatial data 
 26 mining temporal 
 26 improved approximation 
+26 mining preserving 
 26 data indexing 
 26 mining fast 
 26 based pattern 
@@ -268,133 +302,3 @@
 26 algorithm pattern 
 26 mining frequent itemsets 
 26 time mining series 
-25 arbitrary 
-25 disjoint 
-25 warping 
-25 generator 
-25 market 
-25 euclidean 
-25 constructing 
-25 intrusion 
-25 fixed 
-25 data cube 
-25 graph directed 
-25 frequent closed 
-25 space algorithm 
-25 dimensional clustering 
-25 clustering efficient 
-25 using pattern 
-25 rule efficient 
-25 application mining data 
-25 time pattern series 
-24 ratio 
-24 cleaning 
-24 recognizing 
-24 factor 
-24 oblivious 
-24 utility 
-24 stable 
-24 policy 
-24 estimating 
-24 grid 
-24 maintaining 
-24 robust 
-24 data categorical 
-24 entropy maximum 
-24 structure data 
-24 efficient computation 
-24 method data 
-24 data discovering 
-24 space metric 
-24 based detection 
-24 space time 
-24 search fast 
-24 clustering graph 
-24 mining privacy preserving 
-24 rule data association 
-23 subgraph 
-23 likelihood 
-23 emerging 
-23 list 
-23 suffix 
-23 trend 
-23 optimizing 
-23 square 
-23 locality 
-23 numeric 
-23 symmetric 
-23 inference 
-23 exploiting 
-23 pagerank 
-23 direct 
-23 dictionary 
-23 quality 
-23 generalization 
-23 data subspace 
-23 mining gene 
-23 algorithm simple 
-23 algorithm polynomial 
-23 analysis algorithm 
-23 frequent stream 
-23 graph fast 
-23 based graph 
-23 based rule 
-23 graph efficient 
-23 using rule association 
-23 time mining data 
-22 embeddings 
-22 clique 
-22 pair 
-22 streaming 
-22 deletion 
-22 prediction 
-22 weight 
-22 cross 
-22 related 
-22 sense disambiguation 
-22 algorithm faster 
-22 detection duplicate 
-22 algorithm randomized 
-22 algorithm combinatorial 
-22 optimal near 
-22 tree induction 
-22 algorithm frequent 
-22 dimensional algorithm 
-22 efficient set 
-22 based tree 
-22 clustering mining 
-22 using tree 
-22 time efficient 
-22 time similarity series 
-22 based time series 
-22 mining data frequent 
-21 compressed 
-21 sample 
-21 microarray 
-21 identifying 
-21 symmetry 
-21 forest 
-21 chain 
-21 relation 
-21 dependency 
-21 correspondence 
-21 solving 
-21 bound tight 
-21 frequent itemset 
-21 tree binary 
-21 algorithm parallel 
-21 graph partitioning 
-21 algorithm incremental 
-21 algorithm abstract 
-21 algorithm extended 
-21 based outlier 
-21 dimension reduction 
-21 pattern temporal 
-21 dimensional indexing 
-21 dynamic tree 
-21 dynamic data 
-21 space data 
-21 search optimal 
-21 rule set 
-21 clustering time 
-21 search data 

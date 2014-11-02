@@ -79,8 +79,8 @@
 0.0094 site 
 0.0094 searching 
 0.0091 source 
-0.009 cross 
 0.009 theoretic 
+0.009 cross 
 0.0089 integration 
 0.0088 model retrieval 
 0.0088 answering 
@@ -99,8 +99,8 @@
 0.008 intelligent 
 0.0079 architecture 
 0.0079 browsing 
-0.0079 web information 
 0.0079 improving 
+0.0079 web information 
 0.0079 concept 
 0.0079 based model 
 0.0079 based approach 
@@ -108,9 +108,9 @@
 0.0077 answering question 
 0.0077 integrated 
 0.0077 language retrieval 
-0.0076 based content 
 0.0076 automated 
 0.0076 system information retrieval 
+0.0076 based content 
 0.0075 community 
 0.0075 annotation 
 0.0075 language information 
@@ -172,8 +172,8 @@
 0.0054 method 
 0.0054 internet 
 0.0054 platform 
-0.0052 support 
 0.0052 grammar 
+0.0052 support 
 0.0052 query retrieval 
 0.0052 web user 
 0.0052 sentence 
@@ -224,11 +224,11 @@
 0.0043 web retrieval 
 0.0043 summary 
 0.0042 query search 
+0.0042 web system 
 0.0042 interpretation 
 0.0042 matching 
 0.0042 profile 
 0.0042 location 
-0.0042 web system 
 0.0042 improve 
 0.0042 based retrieval content 
 0.0042 demonstration 
@@ -259,43 +259,43 @@
 0.0037 information search 
 0.0037 communication 
 0.0036 integrating 
+0.0036 user retrieval 
 0.0036 english 
 0.0036 web approach 
-0.0036 user retrieval 
 0.0036 impact 
 0.0036 syntactic 
 0.0036 semantic information 
 0.0036 hypertext 
-0.0036 using search 
 0.0036 mapping 
 0.0036 exploiting 
 0.0036 retrieval relevance 
 0.0036 web engine 
 0.0036 conceptual 
+0.0036 using search 
 0.0036 human 
 0.0036 project 
 0.0036 user search 
 0.0035 using document 
 0.0035 based using 
-0.0035 automatically 
 0.0035 web wide 
-0.0035 linguistic 
 0.0035 contextual 
+0.0035 automatically 
 0.0035 based text 
 0.0035 text document 
 0.0035 system expert 
 0.0035 precision 
 0.0035 model web 
+0.0035 linguistic 
 0.0034 digital library 
 0.0034 web world 
 0.0034 semantic retrieval 
 0.0034 system multi 
 0.0034 system agent 
 0.0034 search keyword 
+0.0033 personalization 
 0.0033 enhancing 
 0.0033 world wide 
 0.0033 graphical 
-0.0033 personalization 
 0.0033 automatic web 
 0.0033 using model 
 0.0033 business 
@@ -326,16 +326,15 @@
 0.0031 analysis system 
 0.0031 evaluation information 
 0.0031 semantic using 
+0.0031 using system 
 0.0031 wikipedia 
 0.0031 based similarity 
 0.0031 model system 
 0.0031 map 
 0.0031 based retrieval image 
 0.0031 information theoretic 
-0.0031 using system 
 0.0031 dialogue 
 0.0031 web search engine 
-0.003 web driven 
 0.003 information query 
 0.003 multilingual 
 0.003 sensitive 
@@ -343,10 +342,11 @@
 0.003 structured document 
 0.003 collection document 
 0.003 language system natural 
-0.003 retrieval term 
 0.003 search retrieval 
-0.003 language interface 
+0.003 retrieval term 
+0.003 web driven 
 0.003 information cross 
+0.003 language interface 
 0.003 search document 
 0.003 based agent 
 0.003 xml document 
@@ -393,8 +393,8 @@
 0.0027 search text 
 0.0026 interface retrieval 
 0.0026 based knowledge 
-0.0026 image content 
 0.0026 web searching 
+0.0026 image content 
 0.0026 language model retrieval 
 0.0026 organization 
 0.0026 rule 
@@ -409,9 +409,10 @@
 0.0026 based ontology 
 0.0025 abstract poster 
 0.0025 metadata 
-0.0025 mining text 
+0.0025 recommender 
 0.0025 information filtering 
 0.0025 system management 
+0.0025 web analysis 
 0.0025 based collaborative 
 0.0025 advanced 
 0.0025 novel 
@@ -420,145 +421,10 @@
 0.0025 passage 
 0.0025 model user 
 0.0025 memory 
-0.0025 web analysis 
 0.0025 information context 
-0.0025 recommender 
 0.0025 evolution 
+0.0025 mining text 
 0.0025 event 
 0.0025 comparison 
 0.0025 language information retrieval cross 
 0.0025 information query retrieval 
-0.0024 system interactive 
-0.0024 collection retrieval 
-0.0024 retrieval indexing 
-0.0024 identification 
-0.0024 workflow 
-0.0024 interestingness 
-0.0024 evaluation information retrieval 
-0.0024 unstructured 
-0.0024 industrial 
-0.0024 web towards 
-0.0024 beyond 
-0.0024 semantic document 
-0.0024 help 
-0.0024 past 
-0.0024 record 
-0.0024 language web 
-0.0024 language text 
-0.0024 click 
-0.0024 based image content 
-0.0024 system interface 
-0.0024 structured retrieval 
-0.0024 semantic analysis 
-0.0024 browser 
-0.0024 service composition 
-0.0023 meaning 
-0.0023 remote 
-0.0023 server 
-0.0023 natural interface 
-0.0023 coordination 
-0.0023 using feedback 
-0.0023 portal 
-0.0023 deep 
-0.0023 future 
-0.0023 vocabulary 
-0.0023 people 
-0.0023 flexible 
-0.0023 retrieval probabilistic 
-0.0023 type 
-0.0023 language natural interface 
-0.0023 semantic model 
-0.0023 semantic indexing 
-0.0023 information access 
-0.0022 reactive 
-0.0022 via 
-0.0022 taxonomy 
-0.0022 web study 
-0.0022 judgment 
-0.0022 retrieval abstract 
-0.0022 retrieval image content 
-0.0022 system content 
-0.0022 approach document 
-0.0022 infrastructure 
-0.0022 document term 
-0.0022 identifying 
-0.0022 network social 
-0.0022 developing 
-0.0022 ranking search 
-0.0022 approach search 
-0.0022 refinement 
-0.0022 information retrieval text 
-0.0022 medium 
-0.0022 overview 
-0.0022 usage 
-0.0022 archive 
-0.0022 systematic 
-0.0022 document summarization 
-0.0022 based indexing 
-0.0022 based relevance 
-0.0021 evaluation system 
-0.0021 based retrieval image content 
-0.0021 table 
-0.0021 clustering document 
-0.0021 concept based 
-0.0021 web link 
-0.0021 www 
-0.0021 search xml 
-0.0021 rapid 
-0.0021 retrieval interactive 
-0.0021 based natural 
-0.0021 application data 
-0.0021 system understanding 
-0.0021 automatic document 
-0.0021 information source 
-0.0021 profiling 
-0.0021 frequency 
-0.0021 enhanced 
-0.0021 prototype 
-0.0021 based extraction 
-0.0021 web management 
-0.0021 service web composition 
-0.0021 retrieving 
-0.0021 biomedical 
-0.0021 web composition 
-0.0021 capturing 
-0.002 scoring 
-0.002 test collection 
-0.002 based term 
-0.002 presentation 
-0.002 spam 
-0.002 complex 
-0.002 system image 
-0.002 category 
-0.002 retrieval music 
-0.002 system retrieval document 
-0.002 assistant 
-0.002 based clustering 
-0.002 management data 
-0.002 retrieval relevance feedback 
-0.002 based system retrieval 
-0.002 web source 
-0.002 context retrieval 
-0.002 intensive 
-0.002 semantic search 
-0.002 document relevance 
-0.002 based application 
-0.002 using analysis 
-0.002 assessment 
-0.002 system recommender 
-0.002 block 
-0.002 website 
-0.002 language model information 
-0.002 language generation 
-0.002 based model retrieval 
-0.002 information mining 
-0.002 extraction document 
-0.002 web log 
-0.002 pseudo 
-0.002 language document 
-0.002 model query 
-0.002 system multi agent 
-0.002 disambiguation 
-0.002 story 
-0.002 dependent 
-0.002 visualizing 

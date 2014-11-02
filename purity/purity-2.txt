@@ -13,6 +13,7 @@
 0.010603 language 
 0.010132 relevance 
 0.009963 term 
+0.009738 interface 
 0.009738 web search 
 0.009569 language natural 
 0.009232 context 
@@ -20,7 +21,6 @@
 0.008725 feedback 
 0.008331 collaborative 
 0.008275 system retrieval 
-0.008012 interface 
 0.007937 retrieval document 
 0.007374 page 
 0.007024 engine 
@@ -32,11 +32,14 @@
 0.006136 based web 
 0.006073 interactive 
 0.006023 web page 
+0.005967 understanding 
 0.005854 semantic web 
+0.005854 building 
 0.005629 based information 
 0.005291 site 
 0.005291 generation 
 0.005066 theoretic 
+0.005066 cross 
 0.004954 model retrieval 
 0.004857 collection 
 0.004672 retrieval text 
@@ -49,19 +52,19 @@
 0.004354 automatic 
 0.004334 answering question 
 0.004334 language retrieval 
-0.004278 based content 
 0.004278 system information retrieval 
+0.004278 based content 
 0.004222 community 
 0.004222 annotation 
 0.004222 language information 
-0.004173 understanding 
+0.004166 quality 
 0.004109 using web 
 0.004109 retrieval image 
 0.004053 relevance feedback 
 0.00394 model information 
-0.003934 building 
 0.003884 information extraction 
 0.003828 filtering collaborative 
+0.003828 language model 
 0.003828 based document 
 0.003771 personalized 
 0.003771 using information 
@@ -78,7 +81,6 @@
 0.003377 modelling 
 0.003377 web application 
 0.003377 news 
-0.003366 cross 
 0.003337 social 
 0.003321 web mining 
 0.003265 recommendation 
@@ -105,6 +107,7 @@
 0.002758 based information retrieval 
 0.002758 exploration 
 0.002758 chinese 
+0.002702 based language 
 0.002702 web data 
 0.002646 wide 
 0.002646 based user 
@@ -123,10 +126,9 @@
 0.002421 language cross 
 0.002421 web retrieval 
 0.002421 summary 
-0.002382 quality 
 0.002364 query search 
-0.002364 profile 
 0.002364 web system 
+0.002364 profile 
 0.002364 based retrieval content 
 0.002364 demonstration 
 0.002308 based semantic 
@@ -135,7 +137,6 @@
 0.002308 system document 
 0.002252 system user 
 0.002252 user information 
-0.002233 language model 
 0.002195 semantic latent 
 0.002195 effectiveness 
 0.002189 robot 
@@ -147,38 +148,40 @@
 0.002096 ontology 
 0.002083 session 
 0.002083 information search 
+0.002026 user retrieval 
 0.002026 english 
 0.002026 web approach 
-0.002026 user retrieval 
 0.002026 impact 
 0.002026 syntactic 
 0.002026 semantic information 
 0.002026 hypertext 
-0.002026 using search 
 0.002026 retrieval relevance 
 0.002026 web engine 
+0.002026 using search 
 0.002026 project 
 0.002026 user search 
 0.001997 scale 
 0.001986 study 
-0.00197 automatically 
+0.00197 using document 
 0.00197 web wide 
-0.00197 linguistic 
 0.00197 contextual 
+0.00197 automatically 
 0.00197 text document 
 0.00197 precision 
 0.00197 model web 
+0.00197 linguistic 
 0.001914 digital library 
 0.001914 web world 
 0.001914 semantic retrieval 
+0.001914 system multi 
 0.001914 system agent 
 0.001914 search keyword 
 0.001906 mobile 
 0.001883 integrated 
+0.001858 personalization 
 0.001858 enhancing 
 0.001858 world wide 
 0.001858 graphical 
-0.001858 personalization 
 0.001858 automatic web 
 0.001858 web world wide 
 0.001858 response 
@@ -189,6 +192,7 @@
 0.001858 device 
 0.001858 medical 
 0.001858 language retrieval cross 
+0.001858 effect 
 0.001858 system natural 
 0.001858 retrieval feedback 
 0.001801 result web 
@@ -196,6 +200,7 @@
 0.001745 analysis system 
 0.001745 evaluation information 
 0.001745 semantic using 
+0.001745 using system 
 0.001745 wikipedia 
 0.001745 based similarity 
 0.001745 based retrieval image 
@@ -203,16 +208,16 @@
 0.001745 dialogue 
 0.001745 web search engine 
 0.001724 towards 
-0.001689 web driven 
 0.001689 information query 
 0.001689 multilingual 
 0.001689 structured document 
 0.001689 collection document 
 0.001689 language system natural 
-0.001689 retrieval term 
 0.001689 search retrieval 
-0.001689 language interface 
+0.001689 retrieval term 
+0.001689 web driven 
 0.001689 information cross 
+0.001689 language interface 
 0.001689 search document 
 0.001689 based agent 
 0.001689 poster 
@@ -241,10 +246,11 @@
 0.00152 similarity measure 
 0.00152 tag 
 0.00152 web text 
+0.00152 dictionary 
 0.00152 search text 
 0.001464 interface retrieval 
-0.001464 image content 
 0.001464 web searching 
+0.001464 image content 
 0.001464 language model retrieval 
 0.001464 attack 
 0.001464 focused 
@@ -257,130 +263,21 @@
 0.001464 based ontology 
 0.001407 abstract poster 
 0.001407 metadata 
-0.001407 mining text 
+0.001407 recommender 
 0.001407 information filtering 
+0.001407 web analysis 
 0.001407 based collaborative 
+0.001407 advanced 
 0.001407 application information 
 0.001407 office 
 0.001407 passage 
 0.001407 model user 
-0.001407 web analysis 
 0.001407 information context 
-0.001407 recommender 
+0.001407 mining text 
 0.001407 language information retrieval cross 
 0.001407 information query retrieval 
 0.001388 log 
-0.001351 system interactive 
-0.001351 collection retrieval 
-0.001351 retrieval indexing 
-0.001351 interestingness 
-0.001351 evaluation information retrieval 
-0.001351 unstructured 
-0.001351 industrial 
-0.001351 web towards 
-0.001351 beyond 
-0.001351 semantic document 
-0.001351 help 
-0.001351 past 
-0.001351 language web 
-0.001351 language text 
-0.001351 click 
-0.001351 based image content 
-0.001351 system interface 
-0.001351 structured retrieval 
-0.001351 semantic analysis 
-0.001351 browser 
-0.001351 service composition 
-0.001295 meaning 
-0.001295 remote 
-0.001295 natural interface 
-0.001295 coordination 
-0.001295 using feedback 
-0.001295 portal 
-0.001295 deep 
-0.001295 vocabulary 
-0.001295 people 
-0.001295 retrieval probabilistic 
-0.001295 language natural interface 
-0.001295 semantic model 
-0.001295 semantic indexing 
-0.001295 information access 
-0.001238 reactive 
-0.001238 taxonomy 
-0.001238 web study 
-0.001238 judgment 
-0.001238 retrieval abstract 
-0.001238 retrieval image content 
-0.001238 system content 
-0.001238 approach document 
-0.001238 infrastructure 
-0.001238 document term 
-0.001238 developing 
-0.001238 ranking search 
-0.001238 approach search 
-0.001238 information retrieval text 
-0.001238 usage 
-0.001238 archive 
-0.001238 systematic 
-0.001238 document summarization 
-0.001238 based indexing 
-0.001238 based relevance 
 0.001198 based approach 
-0.001182 based retrieval image content 
-0.001182 concept based 
-0.001182 web link 
-0.001182 www 
-0.001182 search xml 
-0.001182 rapid 
-0.001182 retrieval interactive 
-0.001182 based natural 
-0.001182 system understanding 
-0.001182 automatic document 
-0.001182 information source 
-0.001182 profiling 
-0.001182 frequency 
-0.001182 enhanced 
-0.001182 based extraction 
-0.001182 web management 
-0.001182 service web composition 
-0.001182 retrieving 
-0.001182 biomedical 
-0.001182 web composition 
-0.001182 capturing 
-0.001126 scoring 
-0.001126 test collection 
-0.001126 based term 
-0.001126 presentation 
-0.001126 spam 
-0.001126 system image 
-0.001126 retrieval music 
-0.001126 system retrieval document 
-0.001126 assistant 
-0.001126 retrieval relevance feedback 
-0.001126 based system retrieval 
-0.001126 web source 
-0.001126 context retrieval 
-0.001126 intensive 
-0.001126 semantic search 
-0.001126 document relevance 
-0.001126 based application 
-0.001126 assessment 
-0.001126 system recommender 
-0.001126 block 
-0.001126 website 
-0.001126 language model information 
-0.001126 language generation 
-0.001126 based model retrieval 
-0.001126 information mining 
-0.001126 extraction document 
-0.001126 web log 
-0.001126 pseudo 
-0.001126 language document 
-0.001126 system multi agent 
-0.001126 story 
-0.001126 dependent 
-0.001126 visualizing 
-0.001124 based language 
 0.001028 evaluating 
 0.000927 task 
 0.00089 source 
@@ -394,64 +291,40 @@
 0.000546 answer 
 0.000468 language query 
 0.000421 translation 
-0.000343 system multi 
 0.000331 effective 
 0.000314 based system 
 0.000307 world 
 0.000291 test 
 0.000271 interpretation 
-0.000246 using system 
-0.000195 using document 
 0.000148 answering 
 0.000106 latent 
-4.7e-05 effect 
 -5.8e-05 automated 
--6.8e-05 dictionary 
--8.8e-05 advanced 
 -9.5e-05 based image 
 -0.000113 communication 
 -0.00012 exploring 
--0.000174 identifying 
 -0.000192 improve 
 -0.000205 based text 
--0.000224 future 
 -0.000237 xml document 
 -0.000288 measure 
--0.00031 model query 
 -0.000328 technology 
--0.000337 medium 
--0.000369 record 
 -0.000386 based analysis 
--0.000391 network social 
 -0.000409 visualization 
 -0.00045 exploiting 
--0.000466 evaluation system 
--0.000503 category 
 -0.000553 video 
--0.000572 prototype 
 -0.000578 aware 
 -0.000585 speech 
 -0.000587 relationship 
 -0.000596 challenge 
--0.000612 disambiguation 
 -0.000618 product 
 -0.000667 independent 
--0.000714 using analysis 
 -0.000721 location 
--0.000747 overview 
--0.000842 table 
 -0.000882 text 
 -0.000894 model system 
 -0.000906 experimental 
 -0.000913 novel 
--0.000923 clustering document 
--0.000936 refinement 
--0.000952 flexible 
--0.000964 workflow 
 -0.000992 preference 
 -0.001052 evolution 
 -0.001065 integration 
--0.00107 application data 
 -0.001091 modeling 
 -0.001108 hierarchy 
 -0.00116 role 
@@ -468,8 +341,6 @@
 -0.001668 based query 
 -0.001738 human 
 -0.001757 statistical 
--0.001825 type 
--0.001826 based clustering 
 -0.001856 level 
 -0.001895 ranking 
 -0.001919 vision 
@@ -482,11 +353,9 @@
 -0.002068 acquisition 
 -0.002076 caching 
 -0.002081 panel 
--0.002112 identification 
 -0.002146 system expert 
 -0.00225 example 
 -0.002256 using query 
--0.002292 management data 
 -0.002294 map 
 -0.00236 based using 
 -0.002388 based model 
@@ -497,14 +366,12 @@
 -0.002546 scalable 
 -0.002576 tool 
 -0.002581 indexing 
--0.002704 complex 
 -0.002818 system data 
 -0.002844 comparison 
 -0.002848 expert 
 -0.002921 prediction 
 -0.00297 online 
 -0.003 improving 
--0.00312 server 
 -0.003135 privacy 
 -0.003209 environment 
 -0.003224 semantics 
@@ -518,7 +385,6 @@
 -0.003718 based 
 -0.003723 game 
 -0.00385 concept 
--0.003868 via 
 -0.004173 approach 
 -0.0042 memory 
 -0.004432 matching 

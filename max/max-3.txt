@@ -1,38 +1,56 @@
+297 theory 
 178 solving 
+162 action 
 151 maintenance 
 145 network 
 139 framework 
+137 computer 
 128 relation 
+122 semantics 
 117 learning reinforcement 
+115 knowledge system 
 112 process 
 112 modeling 
 111 complexity 
 111 inference 
+111 knowledge base 
 105 plan 
+102 diagnosis 
 101 analysis 
+97 engineering 
+96 integrating 
 95 environment 
 94 heuristic 
 93 issue 
+93 integration 
+90 implementation 
 89 knowledge representation 
 87 logic program 
 85 database design 
 84 towards 
 83 automatic 
+82 specification 
 82 level 
 82 system expert 
 81 formal 
 80 constraint satisfaction 
+80 based system 
+78 physical 
 78 abstraction 
 77 view 
+76 update 
 76 technique 
+76 based knowledge 
 74 machine 
 74 semantic 
 74 method 
 73 dbms 
 73 practical 
 73 perspective 
+73 management data 
 71 goal 
 71 function 
+69 research 
 69 type 
 67 mechanism 
 67 architecture 
@@ -50,9 +68,11 @@
 62 explanation 
 62 experience 
 62 resolution 
+61 fault 
 61 database approach 
 60 propagation 
 59 software 
+58 incomplete 
 58 human 
 58 representing 
 58 heterogeneous 
@@ -66,10 +86,13 @@
 55 intelligent 
 55 complex 
 55 dynamic 
+55 technology 
 55 system design 
 54 business 
 54 simulation 
 54 fuzzy 
+53 form 
+53 algebra 
 53 change 
 53 challenge 
 53 database deductive 
@@ -79,6 +102,7 @@
 52 database model 
 51 property 
 51 multiple 
+50 report 
 50 decomposition 
 50 hierarchy 
 50 world 
@@ -92,6 +116,7 @@
 47 propositional 
 46 event 
 46 description logic 
+46 design data 
 45 prolog 
 45 definition 
 45 preference 
@@ -107,9 +132,11 @@
 43 transformation 
 43 system production 
 43 system reasoning 
+42 preliminary 
 42 transaction 
 42 extending 
 42 system application 
+41 practice 
 41 workflow 
 41 inheritance 
 41 study 
@@ -142,9 +169,12 @@
 38 predicate 
 38 ontology 
 38 functional dependency 
+38 base management 
 38 learning based 
 38 learning knowledge 
 38 learning system 
+37 modal 
+37 tolerant 
 37 policy 
 37 requirement 
 37 theorem proving 
@@ -174,6 +204,7 @@
 34 conflict 
 34 computing 
 34 overview 
+34 normal 
 34 representation system 
 34 knowledge data 
 33 extension 
@@ -183,6 +214,7 @@
 33 behavior 
 33 scheme 
 33 reasoning qualitative 
+33 base design 
 33 logic system 
 32 methodology 
 32 nonmonotonic 
@@ -208,6 +240,7 @@
 31 learning model 
 31 database system management 
 30 paper 
+30 aided 
 30 analogy 
 30 recursive 
 30 manipulation 
@@ -272,95 +305,3 @@
 26 knowledge management 
 26 approach design 
 26 object system oriented 
-25 adding 
-25 disjunctive 
-25 consistency 
-25 search 
-25 interface 
-25 terminological 
-25 normal form 
-25 database research 
-25 database specification 
-25 learning inductive 
-25 learning approach 
-25 logic model 
-25 model reasoning 
-25 knowledge logic 
-25 system management data 
-25 base design data 
-24 circumscription 
-24 mdps 
-24 understanding 
-24 step 
-24 skill 
-24 observable 
-24 computer aided 
-24 database using 
-24 language data 
-24 knowledge application 
-24 logic database 
-24 based knowledge system 
-23 committee 
-23 circuit 
-23 observation 
-23 forward 
-23 tutorial 
-23 future 
-23 power 
-23 net 
-23 flexible 
-23 building 
-23 theory practice 
-23 preliminary report 
-23 relational algebra 
-23 reasoning default 
-23 database integrity 
-23 design physical 
-23 diagnosis system 
-23 system abstract 
-23 object model 
-23 knowledge design 
-23 reasoning constraint 
-23 knowledge model 
-22 advanced 
-22 abduction 
-22 quantified 
-22 modular 
-22 condition 
-22 expression 
-22 index 
-22 symbolic 
-22 lisp 
-22 versus 
-22 monitoring 
-22 meet 
-22 logic modal 
-22 tolerant fault 
-22 database technology 
-22 database update 
-22 database implementation 
-22 integration data 
-22 integrating system 
-22 engineering data 
-22 database semantics 
-22 database dependency 
-22 base management data 
-22 knowledge system base 
-21 introduction 
-21 updating 
-21 protocol 
-21 telecommunication 
-21 facility 
-21 inferring 
-21 argumentation 
-21 analogical 
-21 information incomplete 
-21 system implementation 
-21 action reasoning 
-21 using system 
-21 based language 
-21 language model 
-21 based programming 
-21 system program 
-21 learning relational 
-21 database object system 
