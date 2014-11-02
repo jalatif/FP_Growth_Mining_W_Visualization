@@ -392,9 +392,9 @@ def findPureItems(topic_patterns, topics_transactions, Dt):
 
 ## write patterns, max patterns and closed patterns into file by descending supported according to their name
 def writePatternInFile(file_name, num_file, FrequentItems):
-    if not os.path.exists(file_name):
-        os.makedirs(file_name)
     dir_name = file_name
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
     f = open(dir_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
     for FI in sorted(FrequentItems.keys(), key=lambda key: key, reverse=True):
         for patterns in FrequentItems[FI]:
@@ -408,6 +408,8 @@ def writePatternInFile(file_name, num_file, FrequentItems):
     #copy contents of pattern into patterns, since not clear in assignment that folder should be pattern or patterns
     if file_name == "pattern":
         dir_name = "patterns"
+        if not os.path.exists(dir_name):
+            os.makedirs(dir_name)
         f = open(dir_name + "/" + file_name + "-" + str(num_file) + ".txt", 'w+')
         for FI in sorted(FrequentItems.keys(), key=lambda key: key, reverse=True):
             for patterns in FrequentItems[FI]:
