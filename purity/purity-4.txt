@@ -1,588 +1,588 @@
-0.5744 [processing]
-0.5744 [control]
-0.5744 [query, processing]
-0.5744 [join]
-0.5744 [real]
-0.5744 [database, query]
-0.5744 [scheduling]
-0.5744 [query, optimization]
-0.5744 [file]
-0.5744 [real, time]
-0.5744 [storage]
-0.5744 [query, data]
-0.5744 [sql]
-0.5744 [concurrency]
-0.5744 [database, distributed]
-0.5744 [system, distributed]
-0.5744 [query, efficient]
-0.5744 [recovery]
-0.5744 [query, xml]
-0.5744 [aggregate]
-0.5744 [peer]
-0.5744 [control, concurrency]
-0.5744 [system, query]
-0.5744 [moving]
-0.5744 [evaluation, query]
-0.5744 [disk]
-0.5744 [object, query]
-0.5744 [data, distributed]
-0.5744 [xml, data]
-0.5744 [expansion]
-0.5744 [processor]
-0.5744 [range]
-0.5744 [data, processing]
-0.5744 [stereo]
-0.5744 [load]
-0.5744 [warehouse]
-0.5744 [nested]
-0.5744 [query, distributed]
-0.5744 [processing, efficient]
-0.5744 [camera]
-0.5744 [cache]
-0.5744 [database, processing]
-0.5744 [olap]
-0.5744 [locking]
-0.5744 [database, system, distributed]
-0.5744 [database, efficient]
-0.5744 [system, processing]
-0.5744 [query, answering]
-0.5744 [allocation]
-0.5744 [distributed, processing]
-0.5744 [query, expansion]
-0.5744 [database, control]
-0.5744 [xpath]
-0.5744 [stream, processing]
-0.5744 [database, performance]
-0.5744 [xml, efficient]
-0.5744 [size]
-0.5744 [query, stream]
-0.5744 [operation]
-0.5744 [materialized]
-0.5744 [data, warehouse]
-0.5744 [query, view]
-0.5744 [xquery]
-0.5744 [query, continuous]
-0.5744 [external]
-0.5744 [object, moving]
-0.5744 [shared]
-0.5744 [materialized, view]
-0.5744 [hash]
-0.5744 [client]
-0.5744 [broadcast]
-0.5744 [replication]
-0.5744 [query, processing, efficient]
-0.5744 [data, access]
-0.5744 [evaluation, performance]
-0.5744 [database, concurrency]
-0.5744 [buffer]
-0.5744 [replicated]
-0.5744 [query, join]
-0.5744 [system, performance]
-0.5744 [signature]
-0.5744 [query, network]
-0.5744 [oracle]
-0.5744 [network, sensor]
-0.5744 [database, control, concurrency]
-0.5744 [database, spatial]
-0.5744 [system, time]
-0.5744 [multi, query]
-0.5744 [db2]
-0.5744 [wireless]
-0.5744 [database, query, processing]
-0.5744 [system, control]
-0.5744 [extensible]
-0.5744 [calibration]
-0.5744 [balancing]
-0.5744 [uncertain]
-0.5744 [structure, index]
-0.5744 [query, relational]
-0.5744 [placement]
-0.5744 [rewriting]
-0.5744 [query, optimizing]
-0.5744 [multiprocessor]
-0.5744 [database, parallel]
-0.5744 [data, view]
-0.5744 [approach, query]
-0.5744 [query, aggregate]
-0.5744 [highly]
-0.5744 [handling]
-0.5744 [xml, processing]
-0.5744 [query, top]
-0.5744 [query, data, processing]
-0.5744 [query, adaptive]
-0.5744 [processing, join]
-0.5744 [main]
-0.5744 [traffic]
-0.5744 [query, sql]
-0.5744 [fusion]
-0.5744 [database, optimization]
-0.5744 [database, evaluation]
-0.5744 [control, access]
-0.5744 [algorithm, join]
-0.5744 [using, processing]
-0.5744 [time, query]
-0.5744 [query, oriented]
-0.5744 [query, index]
-0.5744 [query, distributed, processing]
-0.5744 [query, complex]
-0.5744 [object, complex]
-0.5744 [memory, main]
-0.5744 [manager]
-0.5744 [database, xml]
-0.5744 [database, transaction]
-0.5744 [database, time]
-0.5744 [database, memory]
-0.5744 [array]
-0.5744 [warehousing]
-0.5744 [querying, data]
-0.5744 [parallel, processing]
-0.5744 [network, distributed]
-0.5744 [environment, data]
-0.5744 [dynamic, query]
-0.5744 [workload]
-0.5744 [secure]
-0.5744 [query, range]
-0.5744 [query, parallel]
-0.5744 [object, data]
-0.5744 [network, data]
-0.5744 [database, system, query]
-0.5744 [tuning]
-0.5744 [system, real]
-0.5744 [system, parallel]
-0.5744 [spatial, query]
-0.5744 [processing, transaction]
-0.5744 [presence]
-0.5744 [optimizer]
-0.5744 [network, peer]
-0.5744 [system, transaction]
-0.5744 [system, file]
-0.5744 [query, recursive]
-0.5744 [query, performance]
-0.5744 [p2p]
-0.5744 [management, distributed]
-0.5744 [execution, query]
-0.5744 [energy]
-0.5744 [database, system, oriented]
-0.5744 [database, access]
-0.5744 [data, storage]
-0.5744 [control, distributed]
-0.5744 [conjunctive]
-0.5744 [availability]
-0.5744 [system, xml]
-0.5744 [system, real, time]
-0.5744 [system, query, processing]
-0.5744 [spatial, join]
-0.5744 [performance, distributed]
-0.5744 [object, query, oriented]
-0.5744 [method, access]
-0.5744 [database, object, system, oriented]
-0.5744 [database, index]
-0.5744 [containment]
-0.5744 [querying, xml]
-0.5744 [query, technique]
-0.5744 [query, rewriting]
-0.5744 [query, multiple]
-0.5744 [performance, data]
-0.5744 [join, hash]
-0.5744 [database, querying]
-0.5744 [algorithm, distributed]
-0.5744 [using, view]
-0.5744 [query, data, stream]
-0.5744 [optical]
-0.5744 [inverted]
-0.5744 [evaluation, efficient]
-0.5744 [dynamic, system]
-0.5744 [database, query, optimization]
-0.5744 [database, algorithm]
-0.5744 [associative]
-0.5744 [algorithm, performance]
-0.5744 [xml, relational]
-0.5744 [server, client]
-0.5744 [query, access]
-0.5744 [persistent]
-0.5744 [partitioned]
-0.5744 [federated]
-0.5744 [efficient, index]
-0.5744 [dissemination]
-0.5744 [database, object, query]
-0.5744 [database, architecture]
-0.5744 [data, warehousing]
-0.5744 [data, source]
-0.5744 [data, parallel]
-0.5744 [algorithm, query]
-0.5744 [strategy, query]
-0.5744 [server, sql]
-0.5744 [reliable]
-0.5744 [query, temporal]
-0.5744 [query, conjunctive]
-0.5744 [multi, data]
-0.5744 [microsoft]
-0.5744 [demand]
-0.5744 [database, supporting]
-0.5744 [based, processing]
-0.5744 [based, distributed]
-0.5744 [balancing, load]
-0.5744 [using, query, processing]
-0.5744 [system, efficient]
-0.5744 [shading]
-0.5744 [rdbms]
-0.5744 [providing]
-0.5744 [database, server]
-0.5744 [using, query, view]
-0.5744 [system, memory]
-0.5744 [system, concurrency]
-0.5744 [structure, motion]
-0.5744 [skyline]
-0.5744 [repository]
-0.5744 [query, supporting]
-0.5744 [query, approximate]
-0.5744 [parallel, join]
-0.5744 [measurement]
-0.5744 [database, view]
-0.5744 [database, technique]
-0.5744 [cad]
-0.5744 [adaptive, data]
-0.5744 [xml, view]
-0.5744 [system, stream]
-0.5744 [system, storage]
-0.5744 [system, control, concurrency]
-0.5744 [system, algorithm]
-0.5744 [system, adaptive]
-0.5744 [subscribe]
-0.5744 [semantic, query]
-0.5744 [result, query]
-0.5744 [read]
-0.5744 [query, xpath]
-0.5744 [query, selection]
-0.5744 [query, optimizer]
-0.5744 [publish, subscribe]
-0.5744 [publish]
-0.5744 [progressive]
-0.5744 [object, processing]
-0.5744 [network, processing]
-0.5744 [distributed, optimization]
-0.5744 [deformable]
-0.5744 [database, indexing]
-0.5744 [data, stream, processing]
-0.5744 [data, join]
-0.5744 [data, continuous]
-0.5744 [based, xml]
-0.5744 [vehicle]
-0.5744 [surveillance]
-0.5744 [stream, distributed]
-0.5744 [query, stream, processing]
-0.5744 [query, framework]
-0.5744 [parallel, shared]
-0.5744 [multiversion]
-0.5744 [monte, carlo]
-0.5744 [monte]
-0.5744 [middleware]
-0.5744 [memory, data]
-0.5744 [granularity]
-0.5744 [exchange]
-0.5744 [database, system, performance]
-0.5744 [database, system, control]
-0.5744 [database, network]
-0.5744 [data, sharing]
-0.5744 [data, index]
-0.5744 [cost, query]
-0.5744 [carlo]
-0.5744 [based, control]
-0.5744 [balanced]
-0.5744 [using, xml]
-0.5744 [system, peer]
-0.5744 [system, optimization]
-0.5744 [system, architecture]
-0.5744 [store]
-0.5744 [rigid]
-0.5744 [query, sensor]
-0.5744 [prefetching]
-0.5744 [overlay]
-0.5744 [object, tracking]
-0.5744 [object, relational]
-0.5744 [method, query]
-0.5744 [merging]
-0.5744 [evaluation, algorithm]
-0.5744 [divide]
-0.5744 [distributed, transaction]
-0.5744 [distributed, concurrency]
-0.5744 [directory]
-0.5744 [determining]
-0.5744 [database, storage]
-0.5744 [database, real]
-0.5744 [database, multi]
-0.5744 [data, aggregate]
-0.5744 [control, distributed, concurrency]
-0.5744 [consistent]
-0.5744 [composite]
-0.5744 [commit]
-0.5744 [based, object]
-0.5744 [approach, processing]
-0.5744 [approach, distributed]
-0.5744 [using, optimization]
-0.5744 [tree, query]
-0.5744 [system, network]
-0.5744 [system, load]
-0.5744 [stream, continuous]
-0.5744 [spatial, processing]
-0.5744 [shape, shading]
-0.5744 [server, microsoft]
-0.5744 [redundancy]
-0.5744 [reducing]
-0.5744 [queue]
-0.5744 [query, probabilistic]
-0.5744 [query, containment]
-0.5744 [optimistic]
-0.5744 [object, spatial]
-0.5744 [massively]
-0.5744 [management, transaction]
-0.5744 [evaluation, query, efficient]
-0.5744 [evaluation, data]
-0.5744 [deadlock]
-0.5744 [database, system, concurrency]
-0.5744 [database, multimedia]
-0.5744 [database, machine]
-0.5744 [data, peer]
-0.5744 [control, time]
-0.5744 [bulk]
-0.5744 [architecture, data]
-0.49 [distributed]
-0.4815 [optimization]
-0.4618 [memory]
-0.4593 [index]
-0.4335 [query]
-0.4153 [server]
-0.4025 [parallel]
-0.3959 [transaction]
-0.3754 [protocol]
-0.3745 [optimizing]
-0.3701 [xml]
-0.3621 [sensor]
-0.358 [performance]
-0.3476 [view]
-0.311 [access]
-0.291 [querying]
-0.2902 [using, query]
-0.2769 [monitoring]
-0.2673 [caching]
-0.2631 [scalable]
-0.2462 [object]
-0.2456 [shape]
-0.2394 [execution]
-0.2258 [self]
-0.2121 [consistency]
-0.2096 [routing]
-0.2094 [streaming]
-0.2076 [complex]
-0.2008 [database, object, system]
-0.1991 [multidimensional]
-0.197 [based, query]
-0.1859 [spatial]
-0.1695 [recursive]
-0.1693 [supporting]
-0.1632 [database, object]
-0.1628 [organization]
-0.1557 [resource]
-0.1505 [managing]
-0.1501 [surface]
-0.1489 [adaptive]
-0.1483 [top]
-0.1329 [sharing]
-0.1267 [database, data]
-0.1265 [object, system]
-0.1264 [aggregation]
-0.1246 [motion]
-0.1168 [architecture]
-0.1124 [correspondence]
-0.1015 [flexible]
-0.082 [continuous]
-0.0813 [database, object, oriented]
-0.0722 [evaluation]
-0.0676 [reconstruction]
-0.064 [database, system]
-0.0618 [update]
-0.0547 [dynamic]
-0.0542 [object, oriented]
-0.0468 [structure, data]
-0.0419 [technique]
-0.0354 [global]
-0.0337 [chain]
-0.0239 [environment]
-0.0212 [database, oriented]
-0.0212 [system, management, data]
-0.018 [dynamic, data]
-0.0175 [object, system, oriented]
-0.0136 [database, system, management]
-0.0075 [strategy]
-0.0046 [management, data]
-0.002 [system, oriented]
--0.0023 [table]
--0.005 [heterogeneous]
--0.0133 [approach, data]
--0.0172 [data, efficient]
--0.0257 [maintaining]
--0.0335 [window]
--0.035 [evaluation, system]
--0.0364 [system, data]
--0.0384 [oriented]
--0.0553 [compressed]
--0.0554 [based, database]
--0.0556 [database]
--0.0606 [grid]
--0.0722 [minimization]
--0.0727 [database, update]
--0.0744 [database, using]
--0.0758 [aware]
--0.0766 [version]
--0.0768 [algorithm, parallel]
--0.0799 [efficient]
--0.0943 [model, query]
--0.0946 [database, management]
--0.0964 [medium]
--0.0974 [stream]
--0.0977 [unified]
--0.0998 [spatial, data]
--0.1081 [predicate]
--0.1118 [management]
--0.1187 [limited]
--0.1223 [list]
--0.1228 [policy]
--0.1274 [system, management]
--0.1404 [operator]
--0.1423 [implementation]
--0.1434 [integration, data]
--0.161 [cost]
--0.1627 [scheme]
--0.1661 [autonomous]
--0.167 [object, model]
--0.1672 [video]
--0.1688 [method, data]
--0.1724 [xml, document]
--0.1798 [selectivity]
--0.1804 [structure]
--0.1944 [system]
--0.2124 [data]
--0.2131 [hashing]
--0.2215 [data, stream]
--0.2282 [concurrent]
--0.2287 [communication]
--0.232 [filter]
--0.2335 [tracking]
--0.237 [constrained]
--0.2474 [power]
--0.2665 [extension]
--0.2725 [modeling]
--0.2821 [data, technique]
--0.2902 [answering]
--0.3137 [dbms]
--0.3268 [mechanism]
--0.3277 [database, approach]
--0.3398 [extending]
--0.3415 [effective]
--0.3415 [database, system, relational]
--0.3537 [approach]
--0.3665 [scene]
--0.3705 [framework]
--0.3832 [cube]
--0.3875 [projection]
--0.3931 [depth]
--0.3935 [translation]
--0.3998 [effect]
--0.4064 [multi]
--0.4071 [indexing]
--0.413 [source]
--0.4182 [phase]
--0.4185 [system, multi]
--0.4193 [database, relational]
--0.4198 [language, query]
--0.4219 [system, relational]
--0.4281 [transformation]
--0.4298 [multiple]
--0.4349 [computation]
--0.4523 [integration]
--0.454 [histogram]
--0.4708 [time]
--0.4833 [database, temporal]
--0.5058 [network]
--0.5082 [hybrid]
--0.5137 [estimation]
--0.514 [evaluating]
--0.5145 [based, data]
--0.5264 [database, model]
--0.5264 [data, relational]
--0.5355 [mobile]
--0.5474 [geometric]
--0.5531 [line]
--0.557 [structural]
--0.5765 [image]
--0.5816 [statistic]
--0.5832 [flow]
--0.6042 [relational]
--0.609 [world]
--0.6106 [efficiently]
--0.6126 [incremental]
--0.6139 [complexity]
--0.6139 [based, system]
--0.6195 [visual]
--0.6197 [hierarchy]
--0.6317 [computing]
--0.6342 [answer]
--0.6375 [multimedia]
--0.6383 [model, data]
--0.6594 [using, data]
--0.661 [algebra]
--0.6855 [time, data]
--0.6962 [database, deductive]
--0.7107 [sampling]
--0.7188 [level]
--0.7214 [integrated]
--0.7242 [matching]
--0.7794 [robust]
--0.7919 [comparison]
--0.7931 [result]
--0.8125 [resolution]
--0.8293 [approximate]
--0.8298 [partitioning]
--0.8459 [detection]
--0.8507 [based, approach]
--0.851 [based]
--0.8625 [integrating]
--0.8821 [method]
--0.8939 [temporal]
--0.9069 [application]
--0.914 [analysis]
--0.9434 [towards]
--0.9631 [design]
--0.9716 [algorithm, data]
--0.9797 [algorithm, efficient]
--0.9822 [fast]
--0.9833 [deductive]
--1.0114 [tree]
--1.0195 [probabilistic]
--1.0204 [database, design]
--1.0466 [base, data]
--1.0518 [sequence]
--1.061 [algorithm]
--1.1546 [plan]
--1.1675 [online]
--1.1692 [linear]
--1.1752 [computer]
--1.1787 [using]
--1.1803 [relation]
--1.1807 [optimal]
--1.224 [function]
--1.2427 [semantics]
--1.2452 [engine]
--1.265 [support]
--1.2985 [selection]
--1.4104 [filtering]
--1.4789 [constraint]
--1.5837 [hierarchical]
--1.6003 [model]
--1.6228 [base]
--1.6481 [space]
--1.8121 [dimensional]
--1.8205 [machine]
--1.8319 [semantic]
--2.0092 [language]
--2.1169 [document]
+0.075428 query 
+0.037165 processing 
+0.02822 distributed 
+0.022288 control 
+0.018585 optimization 
+0.018262 query processing 
+0.017217 xml 
+0.016686 join 
+0.01517 real 
+0.013204 object 
+0.012037 index 
+0.012019 database query 
+0.011891 performance 
+0.011856 parallel 
+0.011611 scheduling 
+0.010094 query optimization 
+0.009804 memory 
+0.009685 file 
+0.009533 view 
+0.00881 real time 
+0.008752 storage 
+0.008402 query data 
+0.007935 sql 
+0.00776 concurrency 
+0.007701 database distributed 
+0.00752 transaction 
+0.007293 system distributed 
+0.007235 query efficient 
+0.007013 access 
+0.007001 recovery 
+0.006418 query xml 
+0.00636 aggregate 
+0.006301 peer 
+0.006243 control concurrency 
+0.005834 system query 
+0.00561 server 
+0.005368 moving 
+0.005134 evaluation query 
+0.005076 disk 
+0.004959 data distributed 
+0.004959 object query 
+0.004901 expansion 
+0.004901 xml data 
+0.004668 processor 
+0.004609 data processing 
+0.004609 range 
+0.004376 stereo 
+0.004376 load 
+0.004259 warehouse 
+0.004201 nested 
+0.004142 query distributed 
+0.004084 processing efficient 
+0.004084 camera 
+0.004026 cache 
+0.003909 database processing 
+0.003851 locking 
+0.003851 olap 
+0.003734 database system distributed 
+0.003695 querying 
+0.003676 database efficient 
+0.003617 allocation 
+0.003617 query answering 
+0.003617 system processing 
+0.003576 optimizing 
+0.003559 distributed processing 
+0.003501 query expansion 
+0.003501 database control 
+0.003442 xpath 
+0.003421 sensor 
+0.003326 database performance 
+0.003326 stream processing 
+0.003267 operation 
+0.003267 data warehouse 
+0.003267 query stream 
+0.003267 size 
+0.003267 xml efficient 
+0.003267 materialized 
+0.003209 query view 
+0.003203 protocol 
+0.003151 query continuous 
+0.003151 xquery 
+0.003151 external 
+0.003116 spatial 
+0.003092 object moving 
+0.002976 hash 
+0.002976 client 
+0.002976 materialized view 
+0.002976 shared 
+0.002976 broadcast 
+0.002917 data access 
+0.002917 replication 
+0.002917 query processing efficient 
+0.002859 database concurrency 
+0.002859 buffer 
+0.002859 evaluation performance 
+0.002819 shape 
+0.002801 replicated 
+0.002684 query join 
+0.002625 query network 
+0.002625 oracle 
+0.002625 system performance 
+0.002625 network sensor 
+0.002625 signature 
+0.002625 database control concurrency 
+0.002567 database spatial 
+0.002553 database object 
+0.002509 db2 
+0.002509 multi query 
+0.002509 system time 
+0.00248 adaptive 
+0.002459 scalable 
+0.00245 wireless 
+0.00245 database query processing 
+0.002425 complex 
+0.002417 using query 
+0.002392 calibration 
+0.002392 system control 
+0.002392 balancing 
+0.002392 extensible 
+0.002334 structure index 
+0.002334 query relational 
+0.002334 placement 
+0.002334 uncertain 
+0.002275 query optimizing 
+0.002275 data view 
+0.002275 rewriting 
+0.002275 approach query 
+0.002275 database parallel 
+0.002275 multiprocessor 
+0.002217 handling 
+0.002217 query aggregate 
+0.002217 highly 
+0.002159 query data processing 
+0.002159 main 
+0.002159 query adaptive 
+0.002159 query top 
+0.002159 processing join 
+0.002159 xml processing 
+0.0021 algorithm join 
+0.0021 database evaluation 
+0.0021 control access 
+0.0021 query sql 
+0.0021 traffic 
+0.0021 fusion 
+0.0021 database optimization 
+0.002087 self 
+0.002042 query oriented 
+0.002042 using processing 
+0.002042 database xml 
+0.002042 database time 
+0.002042 array 
+0.002042 memory main 
+0.002042 time query 
+0.002042 database memory 
+0.002042 database transaction 
+0.002042 object complex 
+0.002042 query complex 
+0.002042 query index 
+0.002042 manager 
+0.002042 query distributed processing 
+0.002036 caching 
+0.001984 environment data 
+0.001984 network distributed 
+0.001984 dynamic query 
+0.001984 querying data 
+0.001984 parallel processing 
+0.001984 warehousing 
+0.00197 execution 
+0.001925 secure 
+0.001925 query range 
+0.001925 database system query 
+0.001925 object data 
+0.001925 query parallel 
+0.001925 network data 
+0.001925 workload 
+0.001867 tuning 
+0.001867 optimizer 
+0.001867 processing transaction 
+0.001867 system parallel 
+0.001867 network peer 
+0.001867 system real 
+0.001867 presence 
+0.001867 spatial query 
+0.001809 system file 
+0.001809 data storage 
+0.001809 control distributed 
+0.001809 p2p 
+0.001809 conjunctive 
+0.001809 query recursive 
+0.001809 management distributed 
+0.001809 query performance 
+0.001809 energy 
+0.001809 database access 
+0.001809 execution query 
+0.001809 system transaction 
+0.001809 database system oriented 
+0.001809 availability 
+0.001797 evaluation 
+0.001794 database system 
+0.00175 object query oriented 
+0.00175 database index 
+0.00175 method access 
+0.00175 system xml 
+0.00175 containment 
+0.00175 system real time 
+0.00175 database object system oriented 
+0.00175 spatial join 
+0.00175 system query processing 
+0.00175 performance distributed 
+0.001692 querying xml 
+0.001692 join hash 
+0.001692 algorithm distributed 
+0.001692 query technique 
+0.001692 query rewriting 
+0.001692 performance data 
+0.001692 query multiple 
+0.001692 database querying 
+0.001634 using view 
+0.001634 algorithm performance 
+0.001634 query data stream 
+0.001634 evaluation efficient 
+0.001634 database algorithm 
+0.001634 optical 
+0.001634 dynamic system 
+0.001634 database query optimization 
+0.001634 associative 
+0.001634 inverted 
+0.001631 monitoring 
+0.001613 architecture 
+0.001582 motion 
+0.001575 database object query 
+0.001575 server client 
+0.001575 persistent 
+0.001575 algorithm query 
+0.001575 efficient index 
+0.001575 data warehousing 
+0.001575 query access 
+0.001575 federated 
+0.001575 dissemination 
+0.001575 data parallel 
+0.001575 partitioned 
+0.001575 data source 
+0.001575 xml relational 
+0.001575 database architecture 
+0.001517 demand 
+0.001517 query conjunctive 
+0.001517 query temporal 
+0.001517 microsoft 
+0.001517 multi data 
+0.001517 based processing 
+0.001517 server sql 
+0.001517 strategy query 
+0.001517 database supporting 
+0.001517 balancing load 
+0.001517 reliable 
+0.001517 based distributed 
+0.001459 rdbms 
+0.001459 system efficient 
+0.001459 providing 
+0.001459 using query processing 
+0.001459 database server 
+0.001459 shading 
+0.0014 repository 
+0.0014 query supporting 
+0.0014 skyline 
+0.0014 cad 
+0.0014 using query view 
+0.0014 system concurrency 
+0.0014 database view 
+0.0014 adaptive data 
+0.0014 database technique 
+0.0014 structure motion 
+0.0014 measurement 
+0.0014 parallel join 
+0.0014 query approximate 
+0.0014 system memory 
+0.001342 query optimizer 
+0.001342 system stream 
+0.001342 query xpath 
+0.001342 object processing 
+0.001342 deformable 
+0.001342 based xml 
+0.001342 read 
+0.001342 system storage 
+0.001342 network processing 
+0.001342 database indexing 
+0.001342 data continuous 
+0.001342 subscribe 
+0.001342 system adaptive 
+0.001342 data stream processing 
+0.001342 query selection 
+0.001342 publish 
+0.001342 result query 
+0.001342 publish subscribe 
+0.001342 semantic query 
+0.001342 system algorithm 
+0.001342 data join 
+0.001342 distributed optimization 
+0.001342 progressive 
+0.001342 xml view 
+0.001342 system control concurrency 
+0.00132 routing 
+0.001307 supporting 
+0.001284 middleware 
+0.001284 balanced 
+0.001284 database network 
+0.001284 database system control 
+0.001284 data sharing 
+0.001284 carlo 
+0.001284 based control 
+0.001284 granularity 
+0.001284 monte 
+0.001284 parallel shared 
+0.001284 cost query 
+0.001284 data index 
+0.001284 monte carlo 
+0.001284 surveillance 
+0.001284 memory data 
+0.001284 stream distributed 
+0.001284 vehicle 
+0.001284 multiversion 
+0.001284 query stream processing 
+0.001284 database system performance 
+0.001284 query framework 
+0.001284 exchange 
+0.001225 control distributed concurrency 
+0.001225 commit 
+0.001225 approach distributed 
+0.001225 directory 
+0.001225 determining 
+0.001225 object relational 
+0.001225 distributed concurrency 
+0.001225 distributed transaction 
+0.001225 database storage 
+0.001225 store 
+0.001225 consistent 
+0.001225 prefetching 
+0.001225 based object 
+0.001225 merging 
+0.001225 system peer 
+0.001225 method query 
+0.001225 divide 
+0.001225 query sensor 
+0.001225 system architecture 
+0.001225 evaluation algorithm 
+0.001225 overlay 
+0.001225 rigid 
+0.001225 system optimization 
+0.001225 database multi 
+0.001225 database real 
+0.001225 composite 
+0.001225 object tracking 
+0.001225 approach processing 
+0.001225 data aggregate 
+0.001225 using xml 
+0.001222 dynamic 
+0.001221 based query 
+0.001213 multidimensional 
+0.001167 server microsoft 
+0.001167 bulk 
+0.001167 management transaction 
+0.001167 evaluation query efficient 
+0.001167 redundancy 
+0.001167 database machine 
+0.001167 system load 
+0.001167 data peer 
+0.001167 queue 
+0.001167 massively 
+0.001167 evaluation data 
+0.001167 tree query 
+0.001167 query probabilistic 
+0.001167 system network 
+0.001167 object spatial 
+0.001167 database system concurrency 
+0.001167 query containment 
+0.001167 architecture data 
+0.001167 shape shading 
+0.001167 control time 
+0.001167 optimistic 
+0.001167 database multimedia 
+0.001167 deadlock 
+0.001167 stream continuous 
+0.001167 spatial processing 
+0.001167 using optimization 
+0.001167 reducing 
+0.001155 resource 
+0.001142 consistency 
+0.001067 surface 
+0.001 streaming 
+0.000994 top 
+0.000964 recursive 
+0.000916 continuous 
+0.000886 aggregation 
+0.000877 database object system 
+0.000875 database data 
+0.000843 organization 
+0.000809 object system 
+0.000776 object oriented 
+0.000768 database object oriented 
+0.000729 sharing 
+0.000703 managing 
+0.000677 technique 
+0.000672 update 
+0.000392 flexible 
+0.000388 correspondence 
+0.000357 environment 
+0.000343 reconstruction 
+0.000207 database oriented 
+0.000157 structure data 
+0.000151 global 
+9.6e-05 chain 
+7.1e-05 strategy 
+6.9e-05 system management data 
+5.9e-05 object system oriented 
+5.4e-05 database system management 
+4.9e-05 dynamic data 
+4.2e-05 management data 
+8e-06 system oriented 
+-8e-06 table 
+-3.6e-05 heterogeneous 
+-4.3e-05 approach data 
+-7.3e-05 maintaining 
+-8.9e-05 evaluation system 
+-0.000129 compressed 
+-0.000133 window 
+-0.000143 data efficient 
+-0.00016 grid 
+-0.000161 minimization 
+-0.00017 database update 
+-0.000172 algorithm parallel 
+-0.000189 database using 
+-0.000201 model query 
+-0.000218 version 
+-0.000219 based database 
+-0.000225 medium 
+-0.000238 unified 
+-0.000253 limited 
+-0.000264 spatial data 
+-0.000273 list 
+-0.000277 aware 
+-0.000291 integration data 
+-0.000339 object model 
+-0.00036 method data 
+-0.000392 system data 
+-0.000406 predicate 
+-0.000437 policy 
+-0.000438 selectivity 
+-0.000456 autonomous 
+-0.000456 operator 
+-0.000473 xml document 
+-0.000541 hashing 
+-0.000553 power 
+-0.000589 filter 
+-0.000596 database management 
+-0.000649 concurrent 
+-0.00065 extension 
+-0.000697 communication 
+-0.000714 oriented 
+-0.000716 data technique 
+-0.000812 effect 
+-0.000818 constrained 
+-0.00085 phase 
+-0.00085 system multi 
+-0.000867 database system relational 
+-0.000878 depth 
+-0.000922 histogram 
+-0.000932 extending 
+-0.000945 projection 
+-0.000982 database temporal 
+-0.001019 video 
+-0.001044 transformation 
+-0.001129 cube 
+-0.001151 language query 
+-0.001165 system management 
+-0.001185 implementation 
+-0.001191 scene 
+-0.001199 translation 
+-0.001241 statistic 
+-0.001273 scheme 
+-0.001288 answer 
+-0.001322 hierarchy 
+-0.001325 cost 
+-0.001328 system relational 
+-0.001331 database approach 
+-0.001337 data relational 
+-0.001337 database model 
+-0.00141 algebra 
+-0.001414 database deductive 
+-0.001457 effective 
+-0.001461 mechanism 
+-0.001489 efficiently 
+-0.001561 dbms 
+-0.001651 resolution 
+-0.001686 partitioning 
+-0.001697 structural 
+-0.001724 geometric 
+-0.001741 using data 
+-0.001742 incremental 
+-0.001751 model data 
+-0.001755 tracking 
+-0.001775 evaluating 
+-0.001856 world 
+-0.00188 time data 
+-0.001881 based data 
+-0.001887 answering 
+-0.00191 line 
+-0.002097 stream 
+-0.002125 integrated 
+-0.00216 based approach 
+-0.002168 hybrid 
+-0.002177 database design 
+-0.00219 level 
+-0.002192 flow 
+-0.002197 deductive 
+-0.002265 source 
+-0.00227 algorithm data 
+-0.002297 integration 
+-0.002325 modeling 
+-0.002331 multimedia 
+-0.002385 computation 
+-0.002517 visual 
+-0.00252 data stream 
+-0.002541 integrating 
+-0.00258 plan 
+-0.002623 management 
+-0.002743 sampling 
+-0.002786 algorithm efficient 
+-0.002846 online 
+-0.002868 based system 
+-0.002903 semantics 
+-0.002931 complexity 
+-0.003016 computing 
+-0.003023 structure 
+-0.003057 comparison 
+-0.0031 mobile 
+-0.003108 function 
+-0.003109 database relational 
+-0.003117 relation 
+-0.003199 framework 
+-0.003303 result 
+-0.003339 estimation 
+-0.003342 computer 
+-0.003391 indexing 
+-0.003444 linear 
+-0.003508 base data 
+-0.003526 sequence 
+-0.003582 filtering 
+-0.003721 robust 
+-0.003737 towards 
+-0.004123 efficient 
+-0.004418 dimensional 
+-0.004427 engine 
+-0.00452 space 
+-0.004549 approximate 
+-0.004665 hierarchical 
+-0.004708 matching 
+-0.004846 multiple 
+-0.005268 support 
+-0.005385 probabilistic 
+-0.005732 machine 
+-0.005929 detection 
+-0.006083 temporal 
+-0.006563 multi 
+-0.006568 database 
+-0.006585 fast 
+-0.006758 base 
+-0.006836 optimal 
+-0.00691 image 
+-0.007462 application 
+-0.007629 semantic 
+-0.007652 approach 
+-0.007984 analysis 
+-0.008163 language 
+-0.008804 design 
+-0.008816 document 
+-0.008837 selection 
+-0.009163 constraint 
+-0.009229 method 
+-0.009881 relational 
+-0.012228 network 
+-0.01315 tree 
+-0.014107 time 
+-0.015145 system 
+-0.017068 model 
+-0.022437 data 
+-0.023598 based 
+-0.02634 using 
+-0.027697 algorithm 
